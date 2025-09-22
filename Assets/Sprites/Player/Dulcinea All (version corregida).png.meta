@@ -1,0 +1,975 @@
+fileFormatVersion: 2
+guid: c8d8a29e322c2444282582f60f29a5b3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6854176061344681194
+    second: Dulcinea All (version corregida)_0
+  - first:
+      213: 3277086735653003187
+    second: Dulcinea All (version corregida)_1
+  - first:
+      213: 1777396726299878728
+    second: Dulcinea All (version corregida)_2
+  - first:
+      213: 7477663736553075103
+    second: Dulcinea All (version corregida)_3
+  - first:
+      213: -8129860894075394860
+    second: Dulcinea All (version corregida)_4
+  - first:
+      213: 4045395106166550725
+    second: Dulcinea All (version corregida)_5
+  - first:
+      213: -6800692988139577138
+    second: Dulcinea All (version corregida)_6
+  - first:
+      213: 9099119801913024045
+    second: Dulcinea All (version corregida)_7
+  - first:
+      213: -743537232570634237
+    second: Dulcinea All (version corregida)_8
+  - first:
+      213: 8061593056486185247
+    second: Dulcinea All (version corregida)_9
+  - first:
+      213: -4262389711981028367
+    second: Dulcinea All (version corregida)_10
+  - first:
+      213: 6160164990480940980
+    second: Dulcinea All (version corregida)_11
+  - first:
+      213: 8746105215963892161
+    second: Dulcinea All (version corregida)_12
+  - first:
+      213: -6094368141133047481
+    second: Dulcinea All (version corregida)_13
+  - first:
+      213: 8959821041885140636
+    second: Dulcinea All (version corregida)_14
+  - first:
+      213: -8689229922114874239
+    second: Dulcinea All (version corregida)_15
+  - first:
+      213: -7994806535463721126
+    second: Dulcinea All (version corregida)_16
+  - first:
+      213: 5982229699514313829
+    second: Dulcinea All (version corregida)_17
+  - first:
+      213: -382865453450290012
+    second: Dulcinea All (version corregida)_18
+  - first:
+      213: 4640479814162083735
+    second: Dulcinea All (version corregida)_19
+  - first:
+      213: -317461853772052552
+    second: Dulcinea All (version corregida)_20
+  - first:
+      213: 7567698110473699170
+    second: Dulcinea All (version corregida)_21
+  - first:
+      213: -2458988692037074634
+    second: Dulcinea All (version corregida)_22
+  - first:
+      213: -7967453079640088457
+    second: Dulcinea All (version corregida)_23
+  - first:
+      213: 5360671834605884302
+    second: Dulcinea All (version corregida)_24
+  - first:
+      213: -7792126314445087405
+    second: Dulcinea All (version corregida)_25
+  - first:
+      213: 9067686785091845042
+    second: Dulcinea All (version corregida)_26
+  - first:
+      213: 4223063656461847974
+    second: Dulcinea All (version corregida)_27
+  - first:
+      213: 3225286419313442796
+    second: Dulcinea All (version corregida)_28
+  - first:
+      213: 8284536426167705644
+    second: Dulcinea All (version corregida)_29
+  - first:
+      213: 3965363951319859552
+    second: Dulcinea All (version corregida)_30
+  - first:
+      213: 7950697616612953459
+    second: Dulcinea All (version corregida)_31
+  - first:
+      213: 2429763561882564651
+    second: Dulcinea All (version corregida)_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dulcinea All (version corregida)_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 987
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 613709bef2311e0a0800000000000000
+      internalID: -6854176061344681194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dulcinea All (version corregida)_1
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 911
+        width: 40
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bfddb8f50d8a7d20800000000000000
+      internalID: 3277086735653003187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dulcinea All (version corregida)_2
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 911
+        width: 40
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 845eb00d7e49aa810800000000000000
+      internalID: 1777396726299878728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dulcinea All (version corregida)_3
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 911
+        width: 40
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f91f01fcc8ff5c760800000000000000
+      internalID: 7477663736553075103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dulcinea All (version corregida)_4
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 835
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d4eb47379eec2f80800000000000000
+      internalID: -8129860894075394860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dulcinea All (version corregida)_5
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 759
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c039276a61242830800000000000000
+      internalID: 4045395106166550725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dulcinea All (version corregida)_6
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 835
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec0637742c51f91a0800000000000000
+      internalID: -6800692988139577138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dulcinea All (version corregida)_7
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 759
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2e9fb92041964e70800000000000000
+      internalID: 9099119801913024045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dulcinea All (version corregida)_8
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 835
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 300b95f83dc6ea5f0800000000000000
+      internalID: -743537232570634237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dulcinea All (version corregida)_9
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 759
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f195d973c2880ef60800000000000000
+      internalID: 8061593056486185247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dulcinea All (version corregida)_10
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 683
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fb571bd323f8d4c0800000000000000
+      internalID: -4262389711981028367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dulcinea All (version corregida)_11
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 607
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bff96fbb6d4d7550800000000000000
+      internalID: 6160164990480940980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dulcinea All (version corregida)_12
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 683
+        width: 40
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c908b5ea58606970800000000000000
+      internalID: 8746105215963892161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dulcinea All (version corregida)_13
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 683
+        width: 40
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7499e4907747c6ba0800000000000000
+      internalID: -6094368141133047481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dulcinea All (version corregida)_14
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 683
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9652a434cda75c70800000000000000
+      internalID: 8959821041885140636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dulcinea All (version corregida)_15
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 531
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 184d5a06c67a96780800000000000000
+      internalID: -8689229922114874239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dulcinea All (version corregida)_16
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 455
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a57a6b570ddbc0190800000000000000
+      internalID: -7994806535463721126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dulcinea All (version corregida)_17
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 455
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56ca75c6736250350800000000000000
+      internalID: 5982229699514313829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dulcinea All (version corregida)_18
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 455
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ac935a06e9cfaaf0800000000000000
+      internalID: -382865453450290012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dulcinea All (version corregida)_19
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 379
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79f608efdcb466040800000000000000
+      internalID: 4640479814162083735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dulcinea All (version corregida)_20
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 303
+        width: 40
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b70e204026289bf0800000000000000
+      internalID: -317461853772052552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dulcinea All (version corregida)_21
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 379
+        width: 40
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26ffd2a065dd50960800000000000000
+      internalID: 7567698110473699170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dulcinea All (version corregida)_22
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 227
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6318d6810daefddd0800000000000000
+      internalID: -2458988692037074634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dulcinea All (version corregida)_23
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 151
+        width: 40
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 770e57f23abed6190800000000000000
+      internalID: -7967453079640088457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dulcinea All (version corregida)_24
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 227
+        width: 40
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e83102ba1aee46a40800000000000000
+      internalID: 5360671834605884302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dulcinea All (version corregida)_25
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 151
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35dd686c66eccd390800000000000000
+      internalID: -7792126314445087405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dulcinea All (version corregida)_26
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 227
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bb37ef9615e6dd70800000000000000
+      internalID: 9067686785091845042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dulcinea All (version corregida)_27
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 151
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ad454355065b9a30800000000000000
+      internalID: 4223063656461847974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dulcinea All (version corregida)_28
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 151
+        width: 40
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cefb11af8e482cc20800000000000000
+      internalID: 3225286419313442796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dulcinea All (version corregida)_29
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 151
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c20a28a7cf598f270800000000000000
+      internalID: 8284536426167705644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dulcinea All (version corregida)_30
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 75
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0614f8b118dc70730800000000000000
+      internalID: 3965363951319859552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dulcinea All (version corregida)_31
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 0
+        width: 40
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37d82c29b5d865e60800000000000000
+      internalID: 7950697616612953459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dulcinea All (version corregida)_32
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 75
+        width: 40
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b28b23a061148b120800000000000000
+      internalID: 2429763561882564651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Dulcinea All (version corregida)_0: -6854176061344681194
+      Dulcinea All (version corregida)_1: 3277086735653003187
+      Dulcinea All (version corregida)_10: -4262389711981028367
+      Dulcinea All (version corregida)_11: 6160164990480940980
+      Dulcinea All (version corregida)_12: 8746105215963892161
+      Dulcinea All (version corregida)_13: -6094368141133047481
+      Dulcinea All (version corregida)_14: 8959821041885140636
+      Dulcinea All (version corregida)_15: -8689229922114874239
+      Dulcinea All (version corregida)_16: -7994806535463721126
+      Dulcinea All (version corregida)_17: 5982229699514313829
+      Dulcinea All (version corregida)_18: -382865453450290012
+      Dulcinea All (version corregida)_19: 4640479814162083735
+      Dulcinea All (version corregida)_2: 1777396726299878728
+      Dulcinea All (version corregida)_20: -317461853772052552
+      Dulcinea All (version corregida)_21: 7567698110473699170
+      Dulcinea All (version corregida)_22: -2458988692037074634
+      Dulcinea All (version corregida)_23: -7967453079640088457
+      Dulcinea All (version corregida)_24: 5360671834605884302
+      Dulcinea All (version corregida)_25: -7792126314445087405
+      Dulcinea All (version corregida)_26: 9067686785091845042
+      Dulcinea All (version corregida)_27: 4223063656461847974
+      Dulcinea All (version corregida)_28: 3225286419313442796
+      Dulcinea All (version corregida)_29: 8284536426167705644
+      Dulcinea All (version corregida)_3: 7477663736553075103
+      Dulcinea All (version corregida)_30: 3965363951319859552
+      Dulcinea All (version corregida)_31: 7950697616612953459
+      Dulcinea All (version corregida)_32: 2429763561882564651
+      Dulcinea All (version corregida)_4: -8129860894075394860
+      Dulcinea All (version corregida)_5: 4045395106166550725
+      Dulcinea All (version corregida)_6: -6800692988139577138
+      Dulcinea All (version corregida)_7: 9099119801913024045
+      Dulcinea All (version corregida)_8: -743537232570634237
+      Dulcinea All (version corregida)_9: 8061593056486185247
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
