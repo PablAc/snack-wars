@@ -2,13 +2,13 @@ using UnityEngine;
 
 public class EnemyPatroller : MonoBehaviour
 {
-    GameObject PlayerObj;
-    [SerializeField] float enemySpeed;
-    bool isPlayerInRange;
-    [SerializeField]float shootTimerSet;
-    [SerializeField] GameObject bulletPrefab;
-    [SerializeField] float bulletSpeed;
-    float shootTimer;
+    protected GameObject PlayerObj;
+    [SerializeField] protected float enemySpeed;
+    protected bool isPlayerInRange;
+    [SerializeField]protected float shootTimerSet;
+    [SerializeField]protected GameObject bulletPrefab;
+    [SerializeField] protected float bulletSpeed;
+    protected float shootTimer;
 
     private void Awake()
     {
