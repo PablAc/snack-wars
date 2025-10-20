@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 6abc30e2c2d066244bfe5af111e7d240
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5274103343848131116
+    second: Dulcinea ( final) Abajo_0
+  - first:
+      213: -1590884074102980648
+    second: Dulcinea ( final) Abajo_1
+  - first:
+      213: -6825383895317461631
+    second: Dulcinea ( final) Abajo_2
+  - first:
+      213: -8257824628169257985
+    second: Dulcinea ( final) Abajo_3
+  - first:
+      213: -4236499199871743927
+    second: Dulcinea ( final) Abajo_4
+  - first:
+      213: 8709019161957310286
+    second: Dulcinea ( final) Abajo_5
+  - first:
+      213: 8795065692534532812
+    second: Dulcinea ( final) Abajo_6
+  - first:
+      213: 8981319129188045170
+    second: Dulcinea ( final) Abajo_7
+  - first:
+      213: -4275272540303450719
+    second: Dulcinea ( final) Abajo_8
+  - first:
+      213: 1551112649307604126
+    second: Dulcinea ( final) Abajo_9
+  - first:
+      213: 7606383799047311334
+    second: Dulcinea ( final) Abajo_10
+  - first:
+      213: 4674214046967505824
+    second: Dulcinea ( final) Abajo_11
+  - first:
+      213: -2650969348878481026
+    second: Dulcinea ( final) Abajo_12
+  - first:
+      213: -5634518587390276039
+    second: Dulcinea ( final) Abajo_13
+  - first:
+      213: 7129774170176605362
+    second: Dulcinea ( final) Abajo_14
+  - first:
+      213: -799827410791960557
+    second: Dulcinea ( final) Abajo_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dulcinea ( final) Abajo_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 587
+        width: 40
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2a84ce3c01613940800000000000000
+      internalID: 5274103343848131116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dulcinea ( final) Abajo_1
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 489
+        width: 40
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dff34c0d5b0ce9e0800000000000000
+      internalID: -1590884074102980648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dulcinea ( final) Abajo_2
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 391
+        width: 40
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1854ee7728d5741a0800000000000000
+      internalID: -6825383895317461631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dulcinea ( final) Abajo_3
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 391
+        width: 40
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffbcf74a040566d80800000000000000
+      internalID: -8257824628169257985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dulcinea ( final) Abajo_4
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 391
+        width: 40
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9480b647c6ee435c0800000000000000
+      internalID: -4236499199871743927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dulcinea ( final) Abajo_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 293
+        width: 53
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4f198219c6acd870800000000000000
+      internalID: 8709019161957310286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dulcinea ( final) Abajo_6
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 277
+        width: 62
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccaeebb26a95e0a70800000000000000
+      internalID: 8795065692534532812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dulcinea ( final) Abajo_7
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 293
+        width: 52
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2719ca5b92e04ac70800000000000000
+      internalID: 8981319129188045170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dulcinea ( final) Abajo_8
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 195
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ad1b35a64e2ba4c0800000000000000
+      internalID: -4275272540303450719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dulcinea ( final) Abajo_9
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 195
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9448948cb8a68510800000000000000
+      internalID: 1551112649307604126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dulcinea ( final) Abajo_10
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 195
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ef408fc3cd4f8960800000000000000
+      internalID: 7606383799047311334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dulcinea ( final) Abajo_11
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 97
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a3a3a129e42ed040800000000000000
+      internalID: 4674214046967505824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dulcinea ( final) Abajo_12
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 97
+        width: 40
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7946a13c6dd53bd0800000000000000
+      internalID: -2650969348878481026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dulcinea ( final) Abajo_13
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 97
+        width: 40
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93e444e923b2ec1b0800000000000000
+      internalID: -5634518587390276039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dulcinea ( final) Abajo_14
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 97
+        width: 39
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bcc12625db02f260800000000000000
+      internalID: 7129774170176605362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dulcinea ( final) Abajo_15
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 0
+        width: 40
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 310ff12253176e4f0800000000000000
+      internalID: -799827410791960557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Dulcinea ( final) Abajo_0: 5274103343848131116
+      Dulcinea ( final) Abajo_1: -1590884074102980648
+      Dulcinea ( final) Abajo_10: 7606383799047311334
+      Dulcinea ( final) Abajo_11: 4674214046967505824
+      Dulcinea ( final) Abajo_12: -2650969348878481026
+      Dulcinea ( final) Abajo_13: -5634518587390276039
+      Dulcinea ( final) Abajo_14: 7129774170176605362
+      Dulcinea ( final) Abajo_15: -799827410791960557
+      Dulcinea ( final) Abajo_2: -6825383895317461631
+      Dulcinea ( final) Abajo_3: -8257824628169257985
+      Dulcinea ( final) Abajo_4: -4236499199871743927
+      Dulcinea ( final) Abajo_5: 8709019161957310286
+      Dulcinea ( final) Abajo_6: 8795065692534532812
+      Dulcinea ( final) Abajo_7: 8981319129188045170
+      Dulcinea ( final) Abajo_8: -4275272540303450719
+      Dulcinea ( final) Abajo_9: 1551112649307604126
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
