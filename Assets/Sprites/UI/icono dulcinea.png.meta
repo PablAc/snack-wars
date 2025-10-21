@@ -1,13 +1,19 @@
 fileFormatVersion: 2
-guid: 5be05ad78569ceb4990bbf5468206627
+guid: 69274864b319d6d40b2083e14d1185b9
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -512320199364423430
-    second: Enemy_idle_front_0
+      213: -2443101742037118911
+    second: icono dulcinea_0
   - first:
-      213: 3187040823898261394
-    second: Enemy_idle_front_1
+      213: 4153177058640314136
+    second: icono dulcinea_1
+  - first:
+      213: 7944868530725187982
+    second: icono dulcinea_2
+  - first:
+      213: -2742569568699430298
+    second: icono dulcinea_3
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -54,7 +60,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 50
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -99,62 +105,93 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: Android
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Enemy_idle_front_0
+      name: icono dulcinea_0
       rect:
         serializedVersion: 2
-        x: 16
-        y: 6
-        width: 40
-        height: 64
+        x: 0
+        y: 234
+        width: 93
+        height: 78
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: af050a93e7fd3e8f0800000000000000
-      internalID: -512320199364423430
+      spriteID: 1405db3e8eb581ed0800000000000000
+      internalID: -2443101742037118911
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Enemy_idle_front_1
+      name: icono dulcinea_1
       rect:
         serializedVersion: 2
-        x: 86
-        y: 6
-        width: 40
-        height: 63
+        x: 0
+        y: 156
+        width: 93
+        height: 78
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 297cf116eb4aa3c20800000000000000
-      internalID: 3187040823898261394
+      spriteID: 81fbe85c78c03a930800000000000000
+      internalID: 4153177058640314136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icono dulcinea_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 78
+        width: 93
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e81fd01c5d7d14e60800000000000000
+      internalID: 7944868530725187982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icono dulcinea_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 93
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66acfdd028f60f9d0800000000000000
+      internalID: -2742569568699430298
       vertices: []
       indices: 
       edges: []
@@ -163,7 +200,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 2f5ae5b838836454b837e5498fa4a16b
     internalID: 0
     vertices: []
     indices: 
@@ -171,10 +208,14 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":4.0},"gridSpriteSize":{"x":93.0,"y":78.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      Enemy_idle_front_0: -512320199364423430
-      Enemy_idle_front_1: 3187040823898261394
+      icono dulcinea_0: -2443101742037118911
+      icono dulcinea_1: 4153177058640314136
+      icono dulcinea_2: 7944868530725187982
+      icono dulcinea_3: -2742569568699430298
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

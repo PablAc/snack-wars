@@ -1,31 +1,28 @@
 fileFormatVersion: 2
-guid: 6920269ad2a28b5449f0f503e1089a4a
+guid: 6858c143591654a43815ed40f3eaa94c
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7236240919067798617
-    second: enemy_2_right_0
+      213: -3552074985033869475
+    second: barra_vida_boceto 1_0
   - first:
-      213: -8826940242468278549
-    second: enemy_2_right_1
+      213: 9134887883708178165
+    second: barra_vida_boceto 1_1
   - first:
-      213: -1707778387801047136
-    second: enemy_2_right_2
+      213: 5668771603119095164
+    second: barra_vida_boceto 1_2
   - first:
-      213: 571930966892122724
-    second: enemy_2_right_3
+      213: -3878201063910106685
+    second: barra_vida_boceto 1_3
   - first:
-      213: 8422126166199266901
-    second: enemy_2_right_4
+      213: -468379475470883765
+    second: barra_vida_boceto 1_4
   - first:
-      213: -3623934730700464487
-    second: enemy_2_right_5
+      213: -7505308919459275221
+    second: barra_vida_boceto 1_5
   - first:
-      213: 2769909490277785445
-    second: enemy_2_right_6
-  - first:
-      213: 4451741371835460856
-    second: enemy_2_right_7
+      213: 8739935004357068523
+    second: barra_vida_boceto 1_6
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -69,10 +66,10 @@ TextureImporter:
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 1
-  spriteMeshType: 1
+  spriteMeshType: 0
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 50
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -121,13 +118,145 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: enemy_2_right_0
+      name: barra_vida_boceto 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 606
+        width: 445
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d57518dee9e74bec0800000000000000
+      internalID: -3552074985033869475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_vida_boceto 1_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 505
+        width: 445
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe127ba124a5ce70800000000000000
+      internalID: 9134887883708178165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_vida_boceto 1_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 404
+        width: 445
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7d3cb41db58bae40800000000000000
+      internalID: 5668771603119095164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_vida_boceto 1_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 303
+        width: 445
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c998121eacdd2ac0800000000000000
+      internalID: -3878201063910106685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_vida_boceto 1_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 202
+        width: 445
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b446970495bff79f0800000000000000
+      internalID: -468379475470883765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_vida_boceto 1_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 101
+        width: 445
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2e1f067d49c7d790800000000000000
+      internalID: -7505308919459275221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_vida_boceto 1_6
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 70
-        height: 80
+        width: 445
+        height: 101
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -136,162 +265,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7a351dd2935b39b90800000000000000
-      internalID: -7236240919067798617
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemy_2_right_1
-      rect:
-        serializedVersion: 2
-        x: 70
-        y: 0
-        width: 70
-        height: 80
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: beee31add98608580800000000000000
-      internalID: -8826940242468278549
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemy_2_right_2
-      rect:
-        serializedVersion: 2
-        x: 140
-        y: 0
-        width: 70
-        height: 80
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0af7700ca90cc48e0800000000000000
-      internalID: -1707778387801047136
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemy_2_right_3
-      rect:
-        serializedVersion: 2
-        x: 210
-        y: 0
-        width: 70
-        height: 80
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 46296a52f28efe700800000000000000
-      internalID: 571930966892122724
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemy_2_right_4
-      rect:
-        serializedVersion: 2
-        x: 280
-        y: 0
-        width: 70
-        height: 80
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 55e64d5302761e470800000000000000
-      internalID: 8422126166199266901
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemy_2_right_5
-      rect:
-        serializedVersion: 2
-        x: 350
-        y: 0
-        width: 70
-        height: 80
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 99ed567109235bdc0800000000000000
-      internalID: -3623934730700464487
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemy_2_right_6
-      rect:
-        serializedVersion: 2
-        x: 420
-        y: 0
-        width: 70
-        height: 80
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 56f9dfb7102b07620800000000000000
-      internalID: 2769909490277785445
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemy_2_right_7
-      rect:
-        serializedVersion: 2
-        x: 490
-        y: 0
-        width: 70
-        height: 80
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8fca92cf033c7cd30800000000000000
-      internalID: 4451741371835460856
+      spriteID: be684be849c7a4970800000000000000
+      internalID: 8739935004357068523
       vertices: []
       indices: 
       edges: []
@@ -300,7 +275,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: e7dafc5c5f51dc2489681de9f4ae9107
+    spriteID: 6f532d3854e7a06458ed395a9627e373
     internalID: 0
     vertices: []
     indices: 
@@ -310,16 +285,15 @@ TextureImporter:
     spriteCustomMetadata:
       entries:
       - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":false,"gridCellCount":{"x":8.0,"y":1.0},"gridSpriteSize":{"x":70.0,"y":80.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":7.0},"gridSpriteSize":{"x":445.0,"y":101.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      enemy_2_right_0: -7236240919067798617
-      enemy_2_right_1: -8826940242468278549
-      enemy_2_right_2: -1707778387801047136
-      enemy_2_right_3: 571930966892122724
-      enemy_2_right_4: 8422126166199266901
-      enemy_2_right_5: -3623934730700464487
-      enemy_2_right_6: 2769909490277785445
-      enemy_2_right_7: 4451741371835460856
+      barra_vida_boceto 1_0: -3552074985033869475
+      barra_vida_boceto 1_1: 9134887883708178165
+      barra_vida_boceto 1_2: 5668771603119095164
+      barra_vida_boceto 1_3: -3878201063910106685
+      barra_vida_boceto 1_4: -468379475470883765
+      barra_vida_boceto 1_5: -7505308919459275221
+      barra_vida_boceto 1_6: 8739935004357068523
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 3
-  tags: []
+  tags:
+  - Door
   layers:
   - Default
   - TransparentFX
@@ -40,6 +41,15 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: BackDeco
+    uniqueID: 3747594699
+    locked: 0
+  - name: Actors
+    uniqueID: 2726367413
+    locked: 0
+  - name: FrontDeco
+    uniqueID: 1971319557
     locked: 0
   m_RenderingLayers:
   - Default
