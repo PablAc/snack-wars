@@ -1,0 +1,1131 @@
+fileFormatVersion: 2
+guid: 0088474856adc0147a45a444905147e6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6191995020521863064
+    second: Dulcinea_All_version_corregida_ase_Ataques_0
+  - first:
+      213: -8399319844839688075
+    second: Dulcinea_All_version_corregida_ase_Ataques_1
+  - first:
+      213: 6941513805057897331
+    second: Dulcinea_All_version_corregida_ase_Ataques_2
+  - first:
+      213: -4867728369173493618
+    second: Dulcinea_All_version_corregida_ase_Ataques_3
+  - first:
+      213: 9111402673668459930
+    second: Dulcinea_All_version_corregida_ase_Ataques_4
+  - first:
+      213: 3314434487233136005
+    second: Dulcinea_All_version_corregida_ase_Ataques_5
+  - first:
+      213: 5677432332809567718
+    second: Dulcinea_All_version_corregida_ase_Ataques_6
+  - first:
+      213: 6024670446456000082
+    second: Dulcinea_All_version_corregida_ase_Ataques_7
+  - first:
+      213: 3138037558224287224
+    second: Dulcinea_All_version_corregida_ase_Ataques_8
+  - first:
+      213: -7912298176144732847
+    second: Dulcinea_All_version_corregida_ase_Ataques_9
+  - first:
+      213: 1599330939017684068
+    second: Dulcinea_All_version_corregida_ase_Ataques_10
+  - first:
+      213: 5665555101111070541
+    second: Dulcinea_All_version_corregida_ase_Ataques_11
+  - first:
+      213: -4326740106148242912
+    second: Dulcinea_All_version_corregida_ase_Ataques_12
+  - first:
+      213: 5427621311372998309
+    second: Dulcinea_All_version_corregida_ase_Ataques_13
+  - first:
+      213: 7736888193465487876
+    second: Dulcinea_All_version_corregida_ase_Ataques_14
+  - first:
+      213: 7815237557645809743
+    second: Dulcinea_All_version_corregida_ase_Ataques_15
+  - first:
+      213: -3317799365767669428
+    second: Dulcinea_All_version_corregida_ase_Ataques_16
+  - first:
+      213: 6034942227355698444
+    second: Dulcinea_All_version_corregida_ase_Ataques_17
+  - first:
+      213: 7318286090346131676
+    second: Dulcinea_All_version_corregida_ase_Ataques_18
+  - first:
+      213: 6308346057217833230
+    second: Dulcinea_All_version_corregida_ase_Ataques_19
+  - first:
+      213: -6359135531162940458
+    second: Dulcinea_All_version_corregida_ase_Ataques_20
+  - first:
+      213: 2639306339274849929
+    second: Dulcinea_All_version_corregida_ase_Ataques_21
+  - first:
+      213: -4760049846611973134
+    second: Dulcinea_All_version_corregida_ase_Ataques_22
+  - first:
+      213: 5166985142296274382
+    second: Dulcinea_All_version_corregida_ase_Ataques_23
+  - first:
+      213: 6665569068047235560
+    second: Dulcinea_All_version_corregida_ase_Ataques_24
+  - first:
+      213: -6193893237680649498
+    second: Dulcinea_All_version_corregida_ase_Ataques_25
+  - first:
+      213: 1158960068589151703
+    second: Dulcinea_All_version_corregida_ase_Ataques_26
+  - first:
+      213: -5245803403439237099
+    second: Dulcinea_All_version_corregida_ase_Ataques_27
+  - first:
+      213: 5408061004168548647
+    second: Dulcinea_All_version_corregida_ase_Ataques_28
+  - first:
+      213: 2754453840946629016
+    second: Dulcinea_All_version_corregida_ase_Ataques_29
+  - first:
+      213: -7502475844973657337
+    second: Dulcinea_All_version_corregida_ase_Ataques_30
+  - first:
+      213: -1026841679383852099
+    second: Dulcinea_All_version_corregida_ase_Ataques_31
+  - first:
+      213: -5803978418458787872
+    second: Dulcinea_All_version_corregida_ase_Ataques_32
+  - first:
+      213: 4545424626674805890
+    second: Dulcinea_All_version_corregida_ase_Ataques_33
+  - first:
+      213: -7118644072292981097
+    second: Dulcinea_All_version_corregida_ase_Ataques_34
+  - first:
+      213: -4427737613403372603
+    second: Dulcinea_All_version_corregida_ase_Ataques_35
+  - first:
+      213: 9208620005526921713
+    second: Dulcinea_All_version_corregida_ase_Ataques_36
+  - first:
+      213: 861388110624607470
+    second: Dulcinea_All_version_corregida_ase_Ataques_37
+  - first:
+      213: 6638889826860603624
+    second: Dulcinea_All_version_corregida_ase_Ataques_38
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dulcinea_All_version_corregida_ase_Ataques_0
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1687
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89771312aa26ee550800000000000000
+      internalID: 6191995020521863064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dulcinea_All_version_corregida_ase_Ataques_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1589
+        width: 40
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 578f0754a1f9f6b80800000000000000
+      internalID: -8399319844839688075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dulcinea_All_version_corregida_ase_Ataques_2
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1589
+        width: 40
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37332f92706355060800000000000000
+      internalID: 6941513805057897331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dulcinea_All_version_corregida_ase_Ataques_3
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1589
+        width: 40
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e88825ca6da527cb0800000000000000
+      internalID: -4867728369173493618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dulcinea_All_version_corregida_ase_Ataques_4
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1491
+        width: 54
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9d8d891574327e70800000000000000
+      internalID: 9111402673668459930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dulcinea_All_version_corregida_ase_Ataques_5
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1475
+        width: 40
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 585c5d20b9c3ffd20800000000000000
+      internalID: 3314434487233136005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dulcinea_All_version_corregida_ase_Ataques_6
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1491
+        width: 52
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ed7e6950aa4ace40800000000000000
+      internalID: 5677432332809567718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dulcinea_All_version_corregida_ase_Ataques_7
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1393
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25ecdc9d9ddeb9350800000000000000
+      internalID: 6024670446456000082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dulcinea_All_version_corregida_ase_Ataques_8
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1393
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f5facd788c8c8b20800000000000000
+      internalID: 3138037558224287224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dulcinea_All_version_corregida_ase_Ataques_9
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1393
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15d0ceddabed13290800000000000000
+      internalID: -7912298176144732847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dulcinea_All_version_corregida_ase_Ataques_10
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1295
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 464e072f307f13610800000000000000
+      internalID: 1599330939017684068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dulcinea_All_version_corregida_ase_Ataques_11
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1295
+        width: 40
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4fa029d85810ae40800000000000000
+      internalID: 5665555101111070541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dulcinea_All_version_corregida_ase_Ataques_12
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1295
+        width: 40
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02a19992cc454f3c0800000000000000
+      internalID: -4326740106148242912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dulcinea_All_version_corregida_ase_Ataques_13
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1295
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a63abf63d8c25b40800000000000000
+      internalID: 5427621311372998309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dulcinea_All_version_corregida_ase_Ataques_14
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1197
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4029c66f1d2fe5b60800000000000000
+      internalID: 7736888193465487876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dulcinea_All_version_corregida_ase_Ataques_15
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1099
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4815cad62d457c60800000000000000
+      internalID: 7815237557645809743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dulcinea_All_version_corregida_ase_Ataques_16
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1001
+        width: 47
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c49d6672e0fc4f1d0800000000000000
+      internalID: -3317799365767669428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dulcinea_All_version_corregida_ase_Ataques_17
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1001
+        width: 63
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c058a853bfb60c350800000000000000
+      internalID: 6034942227355698444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dulcinea_All_version_corregida_ase_Ataques_18
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1001
+        width: 70
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd073cbdc66cf8560800000000000000
+      internalID: 7318286090346131676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dulcinea_All_version_corregida_ase_Ataques_19
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 903
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0974b4e05fbb8750800000000000000
+      internalID: 6308346057217833230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dulcinea_All_version_corregida_ase_Ataques_20
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 903
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dbc7723defcfb7a0800000000000000
+      internalID: -6359135531162940458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dulcinea_All_version_corregida_ase_Ataques_21
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 903
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98ef9e5c123b0a420800000000000000
+      internalID: 2639306339274849929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dulcinea_All_version_corregida_ase_Ataques_22
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 805
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fb6a8362e7e0fdb0800000000000000
+      internalID: -4760049846611973134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dulcinea_All_version_corregida_ase_Ataques_23
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 805
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec56a4e6c91d4b740800000000000000
+      internalID: 5166985142296274382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dulcinea_All_version_corregida_ase_Ataques_24
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 805
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e979ce60cbd08c50800000000000000
+      internalID: 6665569068047235560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dulcinea_All_version_corregida_ase_Ataques_25
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 707
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eac95fbaeeda0aa0800000000000000
+      internalID: -6193893237680649498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dulcinea_All_version_corregida_ase_Ataques_26
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 707
+        width: 40
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d56e1dba04751010800000000000000
+      internalID: 1158960068589151703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dulcinea_All_version_corregida_ase_Ataques_27
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 609
+        width: 40
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 518187819992337b0800000000000000
+      internalID: -5245803403439237099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dulcinea_All_version_corregida_ase_Ataques_28
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 511
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 721db1584da4d0b40800000000000000
+      internalID: 5408061004168548647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dulcinea_All_version_corregida_ase_Ataques_29
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 413
+        width: 58
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89985d3bc29c93620800000000000000
+      internalID: 2754453840946629016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dulcinea_All_version_corregida_ase_Ataques_30
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 413
+        width: 76
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 703856408f9d1e790800000000000000
+      internalID: -7502475844973657337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dulcinea_All_version_corregida_ase_Ataques_31
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 413
+        width: 58
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbb82cbdeecefb1f0800000000000000
+      internalID: -1026841679383852099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dulcinea_All_version_corregida_ase_Ataques_32
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 315
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0effab31160247fa0800000000000000
+      internalID: -5803978418458787872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dulcinea_All_version_corregida_ase_Ataques_33
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 315
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28ca3428d97941f30800000000000000
+      internalID: 4545424626674805890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dulcinea_All_version_corregida_ase_Ataques_34
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 217
+        width: 40
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7966984beee753d90800000000000000
+      internalID: -7118644072292981097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dulcinea_All_version_corregida_ase_Ataques_35
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 217
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c3c47a89148d82c0800000000000000
+      internalID: -4427737613403372603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dulcinea_All_version_corregida_ase_Ataques_36
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 119
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f1ecfc0b179bcf70800000000000000
+      internalID: 9208620005526921713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dulcinea_All_version_corregida_ase_Ataques_37
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 119
+        width: 40
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eec468b3ce344fb00800000000000000
+      internalID: 861388110624607470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dulcinea_All_version_corregida_ase_Ataques_38
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 21
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e81bf88f13122c50800000000000000
+      internalID: 6638889826860603624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Dulcinea_All_version_corregida_ase_Ataques_0: 6191995020521863064
+      Dulcinea_All_version_corregida_ase_Ataques_1: -8399319844839688075
+      Dulcinea_All_version_corregida_ase_Ataques_10: 1599330939017684068
+      Dulcinea_All_version_corregida_ase_Ataques_11: 5665555101111070541
+      Dulcinea_All_version_corregida_ase_Ataques_12: -4326740106148242912
+      Dulcinea_All_version_corregida_ase_Ataques_13: 5427621311372998309
+      Dulcinea_All_version_corregida_ase_Ataques_14: 7736888193465487876
+      Dulcinea_All_version_corregida_ase_Ataques_15: 7815237557645809743
+      Dulcinea_All_version_corregida_ase_Ataques_16: -3317799365767669428
+      Dulcinea_All_version_corregida_ase_Ataques_17: 6034942227355698444
+      Dulcinea_All_version_corregida_ase_Ataques_18: 7318286090346131676
+      Dulcinea_All_version_corregida_ase_Ataques_19: 6308346057217833230
+      Dulcinea_All_version_corregida_ase_Ataques_2: 6941513805057897331
+      Dulcinea_All_version_corregida_ase_Ataques_20: -6359135531162940458
+      Dulcinea_All_version_corregida_ase_Ataques_21: 2639306339274849929
+      Dulcinea_All_version_corregida_ase_Ataques_22: -4760049846611973134
+      Dulcinea_All_version_corregida_ase_Ataques_23: 5166985142296274382
+      Dulcinea_All_version_corregida_ase_Ataques_24: 6665569068047235560
+      Dulcinea_All_version_corregida_ase_Ataques_25: -6193893237680649498
+      Dulcinea_All_version_corregida_ase_Ataques_26: 1158960068589151703
+      Dulcinea_All_version_corregida_ase_Ataques_27: -5245803403439237099
+      Dulcinea_All_version_corregida_ase_Ataques_28: 5408061004168548647
+      Dulcinea_All_version_corregida_ase_Ataques_29: 2754453840946629016
+      Dulcinea_All_version_corregida_ase_Ataques_3: -4867728369173493618
+      Dulcinea_All_version_corregida_ase_Ataques_30: -7502475844973657337
+      Dulcinea_All_version_corregida_ase_Ataques_31: -1026841679383852099
+      Dulcinea_All_version_corregida_ase_Ataques_32: -5803978418458787872
+      Dulcinea_All_version_corregida_ase_Ataques_33: 4545424626674805890
+      Dulcinea_All_version_corregida_ase_Ataques_34: -7118644072292981097
+      Dulcinea_All_version_corregida_ase_Ataques_35: -4427737613403372603
+      Dulcinea_All_version_corregida_ase_Ataques_36: 9208620005526921713
+      Dulcinea_All_version_corregida_ase_Ataques_37: 861388110624607470
+      Dulcinea_All_version_corregida_ase_Ataques_38: 6638889826860603624
+      Dulcinea_All_version_corregida_ase_Ataques_4: 9111402673668459930
+      Dulcinea_All_version_corregida_ase_Ataques_5: 3314434487233136005
+      Dulcinea_All_version_corregida_ase_Ataques_6: 5677432332809567718
+      Dulcinea_All_version_corregida_ase_Ataques_7: 6024670446456000082
+      Dulcinea_All_version_corregida_ase_Ataques_8: 3138037558224287224
+      Dulcinea_All_version_corregida_ase_Ataques_9: -7912298176144732847
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

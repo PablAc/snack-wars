@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: 17f8bebf20a8caf498cf2e64aca6c79b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2605684181673526704
+    second: Dulcinea ( final) Arriba_0
+  - first:
+      213: -8196365166499309909
+    second: Dulcinea ( final) Arriba_1
+  - first:
+      213: 8637727914321698432
+    second: Dulcinea ( final) Arriba_2
+  - first:
+      213: 8354649247773088763
+    second: Dulcinea ( final) Arriba_3
+  - first:
+      213: 3921410657520776708
+    second: Dulcinea ( final) Arriba_4
+  - first:
+      213: -4113020934094030133
+    second: Dulcinea ( final) Arriba_5
+  - first:
+      213: 3798692738181776209
+    second: Dulcinea ( final) Arriba_6
+  - first:
+      213: 8507199811424840504
+    second: Dulcinea ( final) Arriba_7
+  - first:
+      213: 1521116366141037201
+    second: Dulcinea ( final) Arriba_8
+  - first:
+      213: -6775264211659430879
+    second: Dulcinea ( final) Arriba_9
+  - first:
+      213: 408148873314073754
+    second: Dulcinea ( final) Arriba_10
+  - first:
+      213: 7942629197792556376
+    second: Dulcinea ( final) Arriba_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dulcinea ( final) Arriba_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 587
+        width: 39
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05abe72da00c6dbd0800000000000000
+      internalID: -2605684181673526704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dulcinea ( final) Arriba_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 489
+        width: 39
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba65c69ae49a04e80800000000000000
+      internalID: -8196365166499309909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dulcinea ( final) Arriba_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 391
+        width: 57
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08ede9ff5cf5fd770800000000000000
+      internalID: 8637727914321698432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dulcinea ( final) Arriba_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 391
+        width: 76
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfbdf7cd93da1f370800000000000000
+      internalID: 8354649247773088763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dulcinea ( final) Arriba_4
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 391
+        width: 57
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 406f4fb6736ab6630800000000000000
+      internalID: 3921410657520776708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dulcinea ( final) Arriba_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 293
+        width: 39
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bca749d804d9be6c0800000000000000
+      internalID: -4113020934094030133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dulcinea ( final) Arriba_6
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 293
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1534e264beaa7b430800000000000000
+      internalID: 3798692738181776209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dulcinea ( final) Arriba_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 195
+        width: 39
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83b6f39c725af0670800000000000000
+      internalID: 8507199811424840504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dulcinea ( final) Arriba_8
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 195
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19a9ed996471c1510800000000000000
+      internalID: 1521116366141037201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dulcinea ( final) Arriba_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 97
+        width: 39
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1246f9ca81d69f1a0800000000000000
+      internalID: -6775264211659430879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dulcinea ( final) Arriba_10
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 97
+        width: 40
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c7c51ec390aa500800000000000000
+      internalID: 408148873314073754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dulcinea ( final) Arriba_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 39
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 855321d6c23e93e60800000000000000
+      internalID: 7942629197792556376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Dulcinea ( final) Arriba_0: -2605684181673526704
+      Dulcinea ( final) Arriba_1: -8196365166499309909
+      Dulcinea ( final) Arriba_10: 408148873314073754
+      Dulcinea ( final) Arriba_11: 7942629197792556376
+      Dulcinea ( final) Arriba_2: 8637727914321698432
+      Dulcinea ( final) Arriba_3: 8354649247773088763
+      Dulcinea ( final) Arriba_4: 3921410657520776708
+      Dulcinea ( final) Arriba_5: -4113020934094030133
+      Dulcinea ( final) Arriba_6: 3798692738181776209
+      Dulcinea ( final) Arriba_7: 8507199811424840504
+      Dulcinea ( final) Arriba_8: 1521116366141037201
+      Dulcinea ( final) Arriba_9: -6775264211659430879
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

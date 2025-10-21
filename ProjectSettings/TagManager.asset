@@ -3,13 +3,12 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 3
-  tags:
-  - Door
+  tags: []
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Enemy
   - Water
   - UI
   - 
@@ -41,18 +40,6 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
-    locked: 0
-  - name: BackDeco
-    uniqueID: 4249146479
-    locked: 0
-  - name: Player
-    uniqueID: 3509681567
-    locked: 0
-  - name: Enemies
-    uniqueID: 2774214485
-    locked: 0
-  - name: FrontDeco
-    uniqueID: 1531072401
     locked: 0
   m_RenderingLayers:
   - Default

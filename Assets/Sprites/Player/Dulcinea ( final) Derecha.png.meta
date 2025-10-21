@@ -1,0 +1,481 @@
+fileFormatVersion: 2
+guid: 35a48d39cf4f75845af24ca5b29b87c0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3997850483987298863
+    second: Dulcinea ( final) Derecha_0
+  - first:
+      213: -5663491755615788947
+    second: Dulcinea ( final) Derecha_1
+  - first:
+      213: 533908021264601423
+    second: Dulcinea ( final) Derecha_2
+  - first:
+      213: -5323639006103228056
+    second: Dulcinea ( final) Derecha_3
+  - first:
+      213: -9102514107212617457
+    second: Dulcinea ( final) Derecha_4
+  - first:
+      213: -8236474821255451114
+    second: Dulcinea ( final) Derecha_5
+  - first:
+      213: 732562896835869767
+    second: Dulcinea ( final) Derecha_6
+  - first:
+      213: 3058101336250019704
+    second: Dulcinea ( final) Derecha_7
+  - first:
+      213: -4766756799306953025
+    second: Dulcinea ( final) Derecha_8
+  - first:
+      213: -4000467808303365900
+    second: Dulcinea ( final) Derecha_9
+  - first:
+      213: -3872447506634458941
+    second: Dulcinea ( final) Derecha_10
+  - first:
+      213: 6924532548425139937
+    second: Dulcinea ( final) Derecha_11
+  - first:
+      213: -8239668914619082639
+    second: Dulcinea ( final) Derecha_12
+  - first:
+      213: -3392444043519706374
+    second: Dulcinea ( final) Derecha_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dulcinea ( final) Derecha_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 587
+        width: 40
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2abf2b65d73b7730800000000000000
+      internalID: 3997850483987298863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dulcinea ( final) Derecha_1
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 489
+        width: 40
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d60ea26314c3761b0800000000000000
+      internalID: -5663491755615788947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dulcinea ( final) Derecha_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 391
+        width: 46
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f41553e3482d86700800000000000000
+      internalID: 533908021264601423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dulcinea ( final) Derecha_3
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 391
+        width: 63
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 861bdc0a782ae16b0800000000000000
+      internalID: -5323639006103228056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dulcinea ( final) Derecha_4
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 391
+        width: 69
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f092c9c85af5da180800000000000000
+      internalID: -9102514107212617457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dulcinea ( final) Derecha_5
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 293
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61eae9de9c922bd80800000000000000
+      internalID: -8236474821255451114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dulcinea ( final) Derecha_6
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 293
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74c7889c2169a2a00800000000000000
+      internalID: 732562896835869767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dulcinea ( final) Derecha_7
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 293
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87f645a76fe807a20800000000000000
+      internalID: 3058101336250019704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dulcinea ( final) Derecha_8
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 195
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbe81a642f319ddb0800000000000000
+      internalID: -4766756799306953025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dulcinea ( final) Derecha_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 195
+        width: 39
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f041b649bb7b78c0800000000000000
+      internalID: -4000467808303365900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dulcinea ( final) Derecha_10
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 195
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c8b4b3828d424ac0800000000000000
+      internalID: -3872447506634458941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dulcinea ( final) Derecha_11
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 97
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e6c2804aa1e81060800000000000000
+      internalID: 6924532548425139937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dulcinea ( final) Derecha_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 97
+        width: 40
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1781d4d17c0d6ad80800000000000000
+      internalID: -8239668914619082639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dulcinea ( final) Derecha_13
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 0
+        width: 40
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afa3e99cd1e9be0d0800000000000000
+      internalID: -3392444043519706374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Dulcinea ( final) Derecha_0: 3997850483987298863
+      Dulcinea ( final) Derecha_1: -5663491755615788947
+      Dulcinea ( final) Derecha_10: -3872447506634458941
+      Dulcinea ( final) Derecha_11: 6924532548425139937
+      Dulcinea ( final) Derecha_12: -8239668914619082639
+      Dulcinea ( final) Derecha_13: -3392444043519706374
+      Dulcinea ( final) Derecha_2: 533908021264601423
+      Dulcinea ( final) Derecha_3: -5323639006103228056
+      Dulcinea ( final) Derecha_4: -9102514107212617457
+      Dulcinea ( final) Derecha_5: -8236474821255451114
+      Dulcinea ( final) Derecha_6: 732562896835869767
+      Dulcinea ( final) Derecha_7: 3058101336250019704
+      Dulcinea ( final) Derecha_8: -4766756799306953025
+      Dulcinea ( final) Derecha_9: -4000467808303365900
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
