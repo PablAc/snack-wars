@@ -20,7 +20,7 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] private float _attackDistance = 0.5f;
     [SerializeField] private float _attackCooldown = 0.4f;
     private float _lastAttackTime;
-    
+
     
 
 
@@ -31,7 +31,7 @@ public class PlayerMovement : MonoBehaviour
         _attackHitbox.SetActive(false);
     }
 
-
+    
     private void OnMove(InputValue inputValue)
     {
         _moveInput = inputValue.Get<Vector2>();
@@ -40,7 +40,7 @@ public class PlayerMovement : MonoBehaviour
     private void OnMelee(InputValue inputValue)
     {
         if (inputValue.Get<float>() > 0f)
-            tryAttack();
+            TryAttack();
     }
 
     private void Update()
@@ -53,8 +53,12 @@ public class PlayerMovement : MonoBehaviour
         
         if(_moveInput != Vector2.zero)
         {
-        _lastMoveDir = _moveInput.normalized;
-        _animator.SetFloat("LastMoveX", _moveInput.x);
+            if (Mathf.Abs(_moveInput.x) > Mathf.Abs(_moveInput.y))
+                _lastMoveDir = new Vector2(Mathf.Sign(_moveInput.x), 0f);
+            else
+                _lastMoveDir = new Vector2(0f, Mathf.Sign(_moveInput.y));
+
+            _animator.SetFloat("LastMoveX", _moveInput.x);
         _animator.SetFloat("LastMoveY", _moveInput.y);
            
         }
@@ -69,7 +73,7 @@ public class PlayerMovement : MonoBehaviour
     }
 
    //Ataque Melee
-    void tryAttack()
+    void TryAttack()
     {
         if (Time.time < _lastAttackTime + _attackCooldown) return;
 
@@ -110,9 +114,13 @@ public class PlayerMovement : MonoBehaviour
     {
         _attackHitbox.SetActive(false);
     }
-    
 
-    
+
+
+    public Vector2 GetLastMoveDir()
+    {
+        return _lastMoveDir;
+    }
 
 
 
