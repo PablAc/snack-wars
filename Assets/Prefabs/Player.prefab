@@ -283,7 +283,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cd40a5d7445097648968a9f668b2541a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::RangeAttack
-  playerBullet: {fileID: 0}
+  playerBullet: {fileID: 6618431977095364155, guid: 4bd72da0cffe60e49b6ace695d3c25fc, type: 3}
   bulletTransform: {fileID: 4820917247702515283}
   _bulletSpeed: 10
   _bulletCooldown: 0.4
