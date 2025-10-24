@@ -23,6 +23,15 @@
                     "processors": "",
                     "interactions": "Press(pressPoint=0.1,behavior=2)",
                     "initialStateCheck": false
+                },
+                {
+                    "name": "Range",
+                    "type": "Button",
+                    "id": "3866ac40-75c7-4393-aedd-53062f5c5ace",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
                 }
             ],
             "bindings": [
@@ -89,6 +98,17 @@
                     "processors": "",
                     "groups": "",
                     "action": "Melee",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "b1d9ed6f-8bb3-4ae1-afce-db2b3eb8b39c",
+                    "path": "<Keyboard>/k",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Range",
                     "isComposite": false,
                     "isPartOfComposite": false
                 }
