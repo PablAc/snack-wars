@@ -40,7 +40,9 @@ public class PlayerMovement : MonoBehaviour
     private void OnMelee(InputValue inputValue)
     {
         if (inputValue.Get<float>() > 0f)
+        {
             TryAttack();
+        }
     }
 
     private void Update()

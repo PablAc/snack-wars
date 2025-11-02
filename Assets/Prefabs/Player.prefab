@@ -47,6 +47,8 @@ GameObject:
   - component: {fileID: 8664022242916511837}
   - component: {fileID: 525742484106419848}
   - component: {fileID: 2225693709402494489}
+  - component: {fileID: 1013606661465304495}
+  - component: {fileID: 1195315963484957433}
   m_Layer: 0
   m_Name: Player
   m_TagString: Player
@@ -287,6 +289,31 @@ MonoBehaviour:
   bulletTransform: {fileID: 4820917247702515283}
   _bulletSpeed: 10
   _bulletCooldown: 0.4
+--- !u!114 &1013606661465304495
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 766747438180282618}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aae7227f56bfdd844ac73ed88c15e880, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::PlayerCollissionHandler
+--- !u!114 &1195315963484957433
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 766747438180282618}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 504ef9a987ec84a439e894a2a9bea37e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::PlayerHealt
+  Healt: 5
 --- !u!1 &8495375097062022353
 GameObject:
   m_ObjectHideFlags: 0

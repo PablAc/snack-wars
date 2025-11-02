@@ -1,0 +1,49 @@
+using UnityEngine;
+using UnityEngine.InputSystem.Processors;
+using UnityEngine.SceneManagement;
+
+public class PlayerHealt : MonoBehaviour
+{
+    private Animator _animator;
+    private PlayerMovement _playerMovement;
+
+    [SerializeField] private float Healt = 5;
+
+    private void Start()
+    {
+        _animator = GetComponent<Animator>();
+        _playerMovement = GetComponent<PlayerMovement>();
+    }
+
+    public void TakeDamage(float damage)
+    {
+        Healt -= damage;
+        if (Healt >0)
+
+        {
+            PlayerHurt();
+            
+        }
+        else
+        {
+            PlayerDead();
+        }
+    }
+    private void PlayerHurt()
+    {
+        _animator.SetTrigger("IsHurt");
+
+    }
+
+    private void PlayerDead()
+    {
+        _animator.SetTrigger("IsDead");
+
+       
+    }
+
+    private void SceneReset()
+    {
+        SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+    }
+}

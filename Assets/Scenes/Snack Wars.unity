@@ -127,14 +127,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 16997064176187552, guid: 4004cc6a8caabd04f8f0df598ff183af, type: 3}
-      propertyPath: m_SortingLayer
-      value: 5
-      objectReference: {fileID: 0}
-    - target: {fileID: 16997064176187552, guid: 4004cc6a8caabd04f8f0df598ff183af, type: 3}
-      propertyPath: m_SortingLayerID
-      value: 735406573
-      objectReference: {fileID: 0}
     - target: {fileID: 766747438180282618, guid: 4004cc6a8caabd04f8f0df598ff183af, type: 3}
       propertyPath: m_Name
       value: Player
@@ -182,10 +174,7 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents:
-    - targetCorrespondingSourceObject: {fileID: 766747438180282618, guid: 4004cc6a8caabd04f8f0df598ff183af, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 1739027350}
+    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4004cc6a8caabd04f8f0df598ff183af, type: 3}
 --- !u!4 &68918631 stripped
 Transform:
@@ -26114,18 +26103,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 7251875529219331736, guid: 4004cc6a8caabd04f8f0df598ff183af, type: 3}
   m_PrefabInstance: {fileID: 43519755}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &1739027350
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 668050012}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: aae7227f56bfdd844ac73ed88c15e880, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::PlayerCollissionHandler
 --- !u!4 &1743216499 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3801961027565934060, guid: 32d82ab0b8401204da5255476d15eb0a, type: 3}
