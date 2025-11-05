@@ -9,6 +9,11 @@ public class NewMonoBehaviourScript : MonoBehaviour
         if (other.TryGetComponent<EnemiHealt>(out EnemiHealt e))
         {
             e.TakeDamage(_damage);
+            
+        }
+        if (other.TryGetComponent<BossHealt>(out BossHealt f))
+        {
+            f.TakeDamage(_damage);
         }
     }
 }
