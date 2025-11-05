@@ -7,18 +7,20 @@ public class PlayerHealt : MonoBehaviour
     private Animator _animator;
     private PlayerMovement _playerMovement;
 
-    [SerializeField] private float Healt = 5;
+    [SerializeField] private float Health = 5;
+    [SerializeField] private float MaxHealth = 5;
 
     private void Start()
     {
         _animator = GetComponent<Animator>();
         _playerMovement = GetComponent<PlayerMovement>();
+        Health = MaxHealth;
     }
 
     public void TakeDamage(float damage)
     {
-        Healt -= damage;
-        if (Healt >0)
+        Health -= damage;
+        if (Health >0)
 
         {
             PlayerHurt();

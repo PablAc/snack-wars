@@ -119,6 +119,11 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!1 &13609051 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3604197546235676723, guid: 7f56214056087d74e85146269184900c, type: 3}
+  m_PrefabInstance: {fileID: 1273098532}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &43519755
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -176,6 +181,143 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4004cc6a8caabd04f8f0df598ff183af, type: 3}
+--- !u!1001 &66019565
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1265523572327623207, guid: b58879777af0c0749aee2c56a214c662, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1265523572327623207, guid: b58879777af0c0749aee2c56a214c662, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1265523572327623207, guid: b58879777af0c0749aee2c56a214c662, type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1537305349372876816, guid: b58879777af0c0749aee2c56a214c662, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1537305349372876816, guid: b58879777af0c0749aee2c56a214c662, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1537305349372876816, guid: b58879777af0c0749aee2c56a214c662, type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2489738647081959648, guid: b58879777af0c0749aee2c56a214c662, type: 3}
+      propertyPath: m_Name
+      value: Canvas
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114904702057264122, guid: b58879777af0c0749aee2c56a214c662, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114904702057264122, guid: b58879777af0c0749aee2c56a214c662, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6013901831806027505, guid: b58879777af0c0749aee2c56a214c662, type: 3}
+      propertyPath: m_Pivot.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6013901831806027505, guid: b58879777af0c0749aee2c56a214c662, type: 3}
+      propertyPath: m_Pivot.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6013901831806027505, guid: b58879777af0c0749aee2c56a214c662, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6013901831806027505, guid: b58879777af0c0749aee2c56a214c662, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6013901831806027505, guid: b58879777af0c0749aee2c56a214c662, type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6013901831806027505, guid: b58879777af0c0749aee2c56a214c662, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6013901831806027505, guid: b58879777af0c0749aee2c56a214c662, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6013901831806027505, guid: b58879777af0c0749aee2c56a214c662, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6013901831806027505, guid: b58879777af0c0749aee2c56a214c662, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6013901831806027505, guid: b58879777af0c0749aee2c56a214c662, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6013901831806027505, guid: b58879777af0c0749aee2c56a214c662, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6013901831806027505, guid: b58879777af0c0749aee2c56a214c662, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6013901831806027505, guid: b58879777af0c0749aee2c56a214c662, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6013901831806027505, guid: b58879777af0c0749aee2c56a214c662, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6013901831806027505, guid: b58879777af0c0749aee2c56a214c662, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6013901831806027505, guid: b58879777af0c0749aee2c56a214c662, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6013901831806027505, guid: b58879777af0c0749aee2c56a214c662, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6013901831806027505, guid: b58879777af0c0749aee2c56a214c662, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6013901831806027505, guid: b58879777af0c0749aee2c56a214c662, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6013901831806027505, guid: b58879777af0c0749aee2c56a214c662, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7932114625692727242, guid: b58879777af0c0749aee2c56a214c662, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7932114625692727242, guid: b58879777af0c0749aee2c56a214c662, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b58879777af0c0749aee2c56a214c662, type: 3}
 --- !u!1001 &78666283
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -259,7 +401,7 @@ PrefabInstance:
     - target: {fileID: 9030165736860114563, guid: 7f56214056087d74e85146269184900c, type: 3}
       propertyPath: centerPos
       value: 
-      objectReference: {fileID: 1720793687}
+      objectReference: {fileID: 1016051442}
     - target: {fileID: 9030165736860114563, guid: 7f56214056087d74e85146269184900c, type: 3}
       propertyPath: mainCamera
       value: 
@@ -267,7 +409,7 @@ PrefabInstance:
     - target: {fileID: 9030165736860114563, guid: 7f56214056087d74e85146269184900c, type: 3}
       propertyPath: nextroomConf
       value: 
-      objectReference: {fileID: 1720793688}
+      objectReference: {fileID: 1662345915}
     - target: {fileID: 9030165736860114563, guid: 7f56214056087d74e85146269184900c, type: 3}
       propertyPath: confinerComponent
       value: 
@@ -682,6 +824,16 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f83af37c0de9ff84eb2c9690fcd8a86c, type: 3}
+--- !u!4 &382583890 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2960606453021649540, guid: 7f56214056087d74e85146269184900c, type: 3}
+  m_PrefabInstance: {fileID: 1273098532}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &445465878 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2960606453021649540, guid: 7f56214056087d74e85146269184900c, type: 3}
+  m_PrefabInstance: {fileID: 78666283}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &537229490 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 3604197546235676723, guid: 7f56214056087d74e85146269184900c, type: 3}
@@ -771,7 +923,7 @@ PrefabInstance:
     - target: {fileID: 9030165736860114563, guid: 7f56214056087d74e85146269184900c, type: 3}
       propertyPath: centerPos
       value: 
-      objectReference: {fileID: 1720793687}
+      objectReference: {fileID: 1549924343}
     - target: {fileID: 9030165736860114563, guid: 7f56214056087d74e85146269184900c, type: 3}
       propertyPath: mainCamera
       value: 
@@ -779,7 +931,7 @@ PrefabInstance:
     - target: {fileID: 9030165736860114563, guid: 7f56214056087d74e85146269184900c, type: 3}
       propertyPath: nextroomConf
       value: 
-      objectReference: {fileID: 1720793688}
+      objectReference: {fileID: 1722989760}
     - target: {fileID: 9030165736860114563, guid: 7f56214056087d74e85146269184900c, type: 3}
       propertyPath: confinerComponent
       value: 
@@ -920,7 +1072,7 @@ PrefabInstance:
     - target: {fileID: 9030165736860114563, guid: 7f56214056087d74e85146269184900c, type: 3}
       propertyPath: centerPos
       value: 
-      objectReference: {fileID: 1720793687}
+      objectReference: {fileID: 1549924343}
     - target: {fileID: 9030165736860114563, guid: 7f56214056087d74e85146269184900c, type: 3}
       propertyPath: mainCamera
       value: 
@@ -928,7 +1080,7 @@ PrefabInstance:
     - target: {fileID: 9030165736860114563, guid: 7f56214056087d74e85146269184900c, type: 3}
       propertyPath: nextroomConf
       value: 
-      objectReference: {fileID: 1720793688}
+      objectReference: {fileID: 1722989760}
     - target: {fileID: 9030165736860114563, guid: 7f56214056087d74e85146269184900c, type: 3}
       propertyPath: confinerComponent
       value: 
@@ -997,10 +1149,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dfe4be8cf8a74084aa0b678145899ba3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
-  centerPos: {fileID: 1720793687}
+  centerPos: {fileID: 1583031138}
   mainCamera: {fileID: 1691422439}
   previousRoomConf: {fileID: 78666285}
-  nextroomConf: {fileID: 1720793688}
+  nextroomConf: {fileID: 827855753}
   confinerComponent: {fileID: 1100140819}
 --- !u!61 &793167426
 BoxCollider2D:
@@ -1152,10 +1304,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dfe4be8cf8a74084aa0b678145899ba3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
-  centerPos: {fileID: 1720793687}
+  centerPos: {fileID: 382583890}
   mainCamera: {fileID: 1691422439}
   previousRoomConf: {fileID: 613372682}
-  nextroomConf: {fileID: 1720793688}
+  nextroomConf: {fileID: 13609051}
   confinerComponent: {fileID: 1100140819}
 --- !u!61 &806118294
 BoxCollider2D:
@@ -1344,7 +1496,7 @@ PrefabInstance:
     - target: {fileID: 9030165736860114563, guid: 7f56214056087d74e85146269184900c, type: 3}
       propertyPath: centerPos
       value: 
-      objectReference: {fileID: 1720793687}
+      objectReference: {fileID: 445465878}
     - target: {fileID: 9030165736860114563, guid: 7f56214056087d74e85146269184900c, type: 3}
       propertyPath: mainCamera
       value: 
@@ -1352,7 +1504,7 @@ PrefabInstance:
     - target: {fileID: 9030165736860114563, guid: 7f56214056087d74e85146269184900c, type: 3}
       propertyPath: nextroomConf
       value: 
-      objectReference: {fileID: 1720793688}
+      objectReference: {fileID: 78666285}
     - target: {fileID: 9030165736860114563, guid: 7f56214056087d74e85146269184900c, type: 3}
       propertyPath: confinerComponent
       value: 
@@ -1421,10 +1573,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dfe4be8cf8a74084aa0b678145899ba3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
-  centerPos: {fileID: 1720793687}
+  centerPos: {fileID: 1875455621}
   mainCamera: {fileID: 1691422439}
   previousRoomConf: {fileID: 1722989760}
-  nextroomConf: {fileID: 1720793688}
+  nextroomConf: {fileID: 733849326}
   confinerComponent: {fileID: 1100140819}
 --- !u!61 &912987838
 BoxCollider2D:
@@ -1576,10 +1728,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dfe4be8cf8a74084aa0b678145899ba3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
-  centerPos: {fileID: 1720793687}
+  centerPos: {fileID: 2127280373}
   mainCamera: {fileID: 1691422439}
   previousRoomConf: {fileID: 1123819104}
-  nextroomConf: {fileID: 1720793688}
+  nextroomConf: {fileID: 1871780464}
   confinerComponent: {fileID: 1100140819}
 --- !u!61 &914271939
 BoxCollider2D:
@@ -1731,10 +1883,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dfe4be8cf8a74084aa0b678145899ba3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
-  centerPos: {fileID: 1720793687}
+  centerPos: {fileID: 1583031138}
   mainCamera: {fileID: 1691422439}
   previousRoomConf: {fileID: 1871780464}
-  nextroomConf: {fileID: 1720793688}
+  nextroomConf: {fileID: 1123819104}
   confinerComponent: {fileID: 1100140819}
 --- !u!61 &1004392855
 BoxCollider2D:
@@ -18892,10 +19044,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dfe4be8cf8a74084aa0b678145899ba3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
-  centerPos: {fileID: 1720793687}
+  centerPos: {fileID: 445465878}
   mainCamera: {fileID: 1691422439}
   previousRoomConf: {fileID: 1662345915}
-  nextroomConf: {fileID: 1720793688}
+  nextroomConf: {fileID: 78666285}
   confinerComponent: {fileID: 1100140819}
 --- !u!61 &1092662249
 BoxCollider2D:
@@ -19095,7 +19247,7 @@ PrefabInstance:
     - target: {fileID: 9030165736860114563, guid: 7f56214056087d74e85146269184900c, type: 3}
       propertyPath: centerPos
       value: 
-      objectReference: {fileID: 1720793687}
+      objectReference: {fileID: 445465878}
     - target: {fileID: 9030165736860114563, guid: 7f56214056087d74e85146269184900c, type: 3}
       propertyPath: mainCamera
       value: 
@@ -19103,7 +19255,7 @@ PrefabInstance:
     - target: {fileID: 9030165736860114563, guid: 7f56214056087d74e85146269184900c, type: 3}
       propertyPath: nextroomConf
       value: 
-      objectReference: {fileID: 1720793688}
+      objectReference: {fileID: 78666285}
     - target: {fileID: 9030165736860114563, guid: 7f56214056087d74e85146269184900c, type: 3}
       propertyPath: confinerComponent
       value: 
@@ -22973,6 +23125,11 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!4 &1251122280 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2960606453021649540, guid: 7f56214056087d74e85146269184900c, type: 3}
+  m_PrefabInstance: {fileID: 613372680}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1273098532
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -23122,10 +23279,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dfe4be8cf8a74084aa0b678145899ba3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
-  centerPos: {fileID: 1720793687}
+  centerPos: {fileID: 2127280373}
   mainCamera: {fileID: 1691422439}
   previousRoomConf: {fileID: 827855753}
-  nextroomConf: {fileID: 1720793688}
+  nextroomConf: {fileID: 1871780464}
   confinerComponent: {fileID: 1100140819}
 --- !u!61 &1441650333
 BoxCollider2D:
@@ -23288,6 +23445,16 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b1c8e88c5b7451a48aeeaf78785a23eb, type: 3}
+--- !u!4 &1549924343 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2960606453021649540, guid: 7f56214056087d74e85146269184900c, type: 3}
+  m_PrefabInstance: {fileID: 1722989758}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &1583031138 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2960606453021649540, guid: 7f56214056087d74e85146269184900c, type: 3}
+  m_PrefabInstance: {fileID: 827855751}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1597276644
 GameObject:
   m_ObjectHideFlags: 0
@@ -27806,6 +27973,11 @@ Tilemap:
     e31: 0
     e32: 0
     e33: 1
+--- !u!4 &1627986340 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2960606453021649540, guid: 7f56214056087d74e85146269184900c, type: 3}
+  m_PrefabInstance: {fileID: 1123819102}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1662345913
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -27889,7 +28061,7 @@ PrefabInstance:
     - target: {fileID: 9030165736860114563, guid: 7f56214056087d74e85146269184900c, type: 3}
       propertyPath: centerPos
       value: 
-      objectReference: {fileID: 1720793687}
+      objectReference: {fileID: 1967234951}
     - target: {fileID: 9030165736860114563, guid: 7f56214056087d74e85146269184900c, type: 3}
       propertyPath: mainCamera
       value: 
@@ -27897,7 +28069,7 @@ PrefabInstance:
     - target: {fileID: 9030165736860114563, guid: 7f56214056087d74e85146269184900c, type: 3}
       propertyPath: nextroomConf
       value: 
-      objectReference: {fileID: 1720793688}
+      objectReference: {fileID: 537229490}
     - target: {fileID: 9030165736860114563, guid: 7f56214056087d74e85146269184900c, type: 3}
       propertyPath: confinerComponent
       value: 
@@ -28158,7 +28330,7 @@ PrefabInstance:
     - target: {fileID: 9030165736860114563, guid: 7f56214056087d74e85146269184900c, type: 3}
       propertyPath: centerPos
       value: 
-      objectReference: {fileID: 1720793687}
+      objectReference: {fileID: 1251122280}
     - target: {fileID: 9030165736860114563, guid: 7f56214056087d74e85146269184900c, type: 3}
       propertyPath: mainCamera
       value: 
@@ -28166,7 +28338,7 @@ PrefabInstance:
     - target: {fileID: 9030165736860114563, guid: 7f56214056087d74e85146269184900c, type: 3}
       propertyPath: nextroomConf
       value: 
-      objectReference: {fileID: 1720793688}
+      objectReference: {fileID: 613372682}
     - target: {fileID: 9030165736860114563, guid: 7f56214056087d74e85146269184900c, type: 3}
       propertyPath: confinerComponent
       value: 
@@ -28240,10 +28412,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dfe4be8cf8a74084aa0b678145899ba3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
-  centerPos: {fileID: 1720793687}
+  centerPos: {fileID: 2127280373}
   mainCamera: {fileID: 1691422439}
   previousRoomConf: {fileID: 1871780464}
-  nextroomConf: {fileID: 1720793688}
+  nextroomConf: {fileID: 827855753}
   confinerComponent: {fileID: 1100140819}
 --- !u!61 &1746810882
 BoxCollider2D:
@@ -28349,6 +28521,17 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1785453405 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 8397921450297735083, guid: b58879777af0c0749aee2c56a214c662, type: 3}
+  m_PrefabInstance: {fileID: 66019565}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67db9e8f0e2ae9c40bc1e2b64352a6b4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Slider
 --- !u!1001 &1871780462
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -28432,7 +28615,7 @@ PrefabInstance:
     - target: {fileID: 9030165736860114563, guid: 7f56214056087d74e85146269184900c, type: 3}
       propertyPath: centerPos
       value: 
-      objectReference: {fileID: 1720793687}
+      objectReference: {fileID: 1875455621}
     - target: {fileID: 9030165736860114563, guid: 7f56214056087d74e85146269184900c, type: 3}
       propertyPath: mainCamera
       value: 
@@ -28440,7 +28623,7 @@ PrefabInstance:
     - target: {fileID: 9030165736860114563, guid: 7f56214056087d74e85146269184900c, type: 3}
       propertyPath: nextroomConf
       value: 
-      objectReference: {fileID: 1720793688}
+      objectReference: {fileID: 733849326}
     - target: {fileID: 9030165736860114563, guid: 7f56214056087d74e85146269184900c, type: 3}
       propertyPath: confinerComponent
       value: 
@@ -28465,6 +28648,11 @@ Transform:
 GameObject:
   m_CorrespondingSourceObject: {fileID: 3604197546235676723, guid: 7f56214056087d74e85146269184900c, type: 3}
   m_PrefabInstance: {fileID: 1871780462}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &1875455621 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2960606453021649540, guid: 7f56214056087d74e85146269184900c, type: 3}
+  m_PrefabInstance: {fileID: 733849324}
   m_PrefabAsset: {fileID: 0}
 --- !u!4 &1967234951 stripped
 Transform:
@@ -80201,10 +80389,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dfe4be8cf8a74084aa0b678145899ba3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
-  centerPos: {fileID: 1720793687}
+  centerPos: {fileID: 1627986340}
   mainCamera: {fileID: 1691422439}
   previousRoomConf: {fileID: 78666285}
-  nextroomConf: {fileID: 1720793688}
+  nextroomConf: {fileID: 1123819104}
   confinerComponent: {fileID: 1100140819}
 --- !u!61 &2051207989
 BoxCollider2D:
@@ -80340,6 +80528,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::GameController
   PlayerObj: {fileID: 668050012}
+  healthSlider: {fileID: 1785453405}
 --- !u!4 &2108794760
 Transform:
   m_ObjectHideFlags: 0
@@ -80450,10 +80639,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dfe4be8cf8a74084aa0b678145899ba3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
-  centerPos: {fileID: 1720793687}
+  centerPos: {fileID: 1875455621}
   mainCamera: {fileID: 1691422439}
   previousRoomConf: {fileID: 733849326}
-  nextroomConf: {fileID: 1720793688}
+  nextroomConf: {fileID: 1871780464}
   confinerComponent: {fileID: 1100140819}
 --- !u!61 &2124655208
 BoxCollider2D:
@@ -80559,6 +80748,11 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!4 &2127280373 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2960606453021649540, guid: 7f56214056087d74e85146269184900c, type: 3}
+  m_PrefabInstance: {fileID: 1871780462}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &2144078139
 GameObject:
   m_ObjectHideFlags: 0
@@ -82235,3 +82429,4 @@ SceneRoots:
   - {fileID: 368145907}
   - {fileID: 1526412775}
   - {fileID: 697799012}
+  - {fileID: 66019565}
