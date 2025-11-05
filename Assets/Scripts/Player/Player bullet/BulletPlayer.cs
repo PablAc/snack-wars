@@ -12,15 +12,9 @@ public class BulletPlayer : MonoBehaviour
 
             Destroy(gameObject);
         }
-        
-    }
-
-    
-
-    private void OnCollisionEnter2D(Collision2D collision)
-    {
-        if (collision.collider.CompareTag ("Levelcolider"))
+        if (other.TryGetComponent<BossHealt>(out BossHealt f))
         {
+            f.TakeDamage(_damage);
             Destroy(gameObject);
         }
     }
