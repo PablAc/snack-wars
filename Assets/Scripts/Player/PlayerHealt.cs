@@ -7,8 +7,8 @@ public class PlayerHealt : MonoBehaviour
     private Animator _animator;
     private PlayerMovement _playerMovement;
 
-    [SerializeField] private float Health = 5;
-    [SerializeField] private float MaxHealth = 5;
+    [SerializeField] public float Health = 5;
+    [SerializeField] public float MaxHealth = 5;
 
     private void Start()
     {
@@ -47,5 +47,12 @@ public class PlayerHealt : MonoBehaviour
     private void SceneReset()
     {
         SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+    }
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.CompareTag("EnemyAttack"))
+        {
+            TakeDamage(1);
+        }
     }
 }
