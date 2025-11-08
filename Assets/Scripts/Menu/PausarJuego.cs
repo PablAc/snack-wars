@@ -1,15 +1,19 @@
 using UnityEngine;
+using UnityEngine.InputSystem;
 using UnityEngine.SceneManagement;
 
 public class PausarJuego : MonoBehaviour
 {
+
     public GameObject menuPausa;
     public bool juegoPausado = false;
 
-    private void Update()
+
+    private void OnPause(InputValue inputValue)
     {
-        if (Input.GetKeyDown(KeyCode.Escape))
+        if (inputValue.Get<float>()>0f)
         {
+            
             if (juegoPausado)
             {
                 Reanudar();

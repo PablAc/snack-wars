@@ -21,13 +21,22 @@
                     "id": "0c9b968b-2dd9-4710-8192-efae19e536da",
                     "expectedControlType": "",
                     "processors": "",
-                    "interactions": "Press(pressPoint=0.1,behavior=2)",
+                    "interactions": "",
                     "initialStateCheck": false
                 },
                 {
                     "name": "Range",
                     "type": "Button",
                     "id": "3866ac40-75c7-4393-aedd-53062f5c5ace",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Pause",
+                    "type": "Button",
+                    "id": "9ae9d9f2-38f1-4077-b932-1e590c569c25",
                     "expectedControlType": "",
                     "processors": "",
                     "interactions": "",
@@ -109,6 +118,17 @@
                     "processors": "",
                     "groups": "",
                     "action": "Range",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "cea428a4-64d3-4b7f-b11d-4125f10fa3ba",
+                    "path": "<Keyboard>/escape",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Pause",
                     "isComposite": false,
                     "isPartOfComposite": false
                 }
