@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class BulletPlayer : MonoBehaviour
+public class BossBullet : MonoBehaviour
 {
     [SerializeField] private int _damage = 1;
     [SerializeField] private float _lifeTime = 5f;
@@ -8,17 +8,13 @@ public class BulletPlayer : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D other)
     {
-        if (other.TryGetComponent<EnemiHealt>(out EnemiHealt e))
+        if (other.TryGetComponent<PlayerHealt>(out PlayerHealt e))
         {
             e.TakeDamage(_damage);
 
             Destroy(gameObject);
         }
-        if (other.TryGetComponent<BossHealt>(out BossHealt f))
-        {
-            f.TakeDamage(_damage);
-            Destroy(gameObject);
-        }
+        
     }
 
     private void Awake()
@@ -28,7 +24,7 @@ public class BulletPlayer : MonoBehaviour
 
     private void Update()
     {
-        if(TimeLeft > 0)
+        if (TimeLeft > 0)
         {
             TimeLeft -= Time.deltaTime;
         }
