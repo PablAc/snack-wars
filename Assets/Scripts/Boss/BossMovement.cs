@@ -52,7 +52,7 @@ public class BossMovement : MonoBehaviour
     private System.Collections.IEnumerator MeleeAttack()
     {
         _isAttacking = (true);
-        Debug.Log("Melee");
+
 
         Animator.SetTrigger("MeleeAttack");
         yield return new WaitForSeconds(_attackDelay);
@@ -63,7 +63,7 @@ public class BossMovement : MonoBehaviour
     private System.Collections.IEnumerator RangedAttack()
     {
         _isAttacking= (true);
-        Debug.Log("Range");
+       
 
         Animator.SetTrigger("RangeAttack");
         yield return new WaitForSeconds(_attackDelay);

@@ -10,7 +10,7 @@ public class BossAreaAttacks : MonoBehaviour
         if (other.CompareTag("Player"))
         {
             _boss._playerInMeleeRange = true;
-            Debug.Log("Jugador ENTRÓ al rango melee");
+            
         }
     }
 
@@ -19,7 +19,7 @@ public class BossAreaAttacks : MonoBehaviour
         if (other.CompareTag("Player"))
         {
             _boss._playerInMeleeRange = false;
-            Debug.Log("Jugador SALIÓ del rango melee");
+            
         }
     }
 }

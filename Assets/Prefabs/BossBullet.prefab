@@ -169,4 +169,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::BossBullet
   _damage: 1
-  _lifeTime: 5
+  _lifeTime: 2.5

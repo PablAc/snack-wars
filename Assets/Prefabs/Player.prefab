@@ -289,6 +289,9 @@ MonoBehaviour:
   bulletTransform: {fileID: 4820917247702515283}
   _bulletSpeed: 10
   _bulletCooldown: 0.4
+  _bulletCount: 5
+  _reloadTime: 1
+  _bullets: 0
 --- !u!114 &1013606661465304495
 MonoBehaviour:
   m_ObjectHideFlags: 0
