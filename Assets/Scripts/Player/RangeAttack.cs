@@ -8,6 +8,8 @@ public class RangeAttack : MonoBehaviour
     public Transform bulletTransform;
     [SerializeField] private float _bulletSpeed = 10f;
     [SerializeField] private float _bulletCooldown = 0.4f;
+    [SerializeField] private AudioClip _attackClip;
+
 
     private PlayerMovement _playerMovement;
     private Animator _animator;
@@ -41,7 +43,8 @@ public class RangeAttack : MonoBehaviour
 
 
        GameObject bullet = Instantiate(playerBullet,bulletTransform.position, Quaternion.identity);
-       Rigidbody2D rb = bullet.GetComponent<Rigidbody2D>();
+        SFXmanager.instance.PlaySFX(_attackClip, this.transform, UnityEngine.Random.Range(1f, 1.5f));
+        Rigidbody2D rb = bullet.GetComponent<Rigidbody2D>();
        rb.linearVelocity = dir * _bulletSpeed;
        bullet.transform.right = dir;
 

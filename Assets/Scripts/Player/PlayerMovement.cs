@@ -1,6 +1,5 @@
 using System;
 using System.Runtime.CompilerServices;
-using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
@@ -18,6 +17,7 @@ public class PlayerMovement : MonoBehaviour
     public GameObject _attackHitbox;
     [SerializeField] private float _attackDistance = 0.5f;
     [SerializeField] private float _attackCooldown = 0.4f;
+    [SerializeField] private AudioClip _attackClip;
     private float _lastAttackTime;
 
     
@@ -41,6 +41,13 @@ public class PlayerMovement : MonoBehaviour
         if (inputValue.Get<float>() > 0f)
         {
             TryAttack();
+        }
+    }
+    private void OnPause(InputValue inputValue)
+    {
+        if (inputValue.Get<float>() > 0f)
+        {
+            Debug.Log("AAA");
         }
     }
 
@@ -81,6 +88,7 @@ public class PlayerMovement : MonoBehaviour
         _lastAttackTime = Time.time;
 
         _attackHitbox.transform.localPosition = _lastMoveDir * _attackDistance;
+        SFXmanager.instance.PlaySFX(_attackClip, this.transform, UnityEngine.Random.Range(1f,1.5f));
         _attackHitbox.SetActive(true);
 
         if (Mathf.Abs(_lastMoveDir.x) > Mathf.Abs(_lastMoveDir.y))
@@ -122,9 +130,6 @@ public class PlayerMovement : MonoBehaviour
     {
         return _lastMoveDir;
     }
-
-
-
 }
 
 
