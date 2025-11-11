@@ -262,8 +262,8 @@ TextureImporter:
         y: 293
         width: 53
         height: 77
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.61659527, y: 0.5029725}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -280,12 +280,12 @@ TextureImporter:
       name: Dulcinea ( final) Abajo_6
       rect:
         serializedVersion: 2
-        x: 113
+        x: 114
         y: 277
-        width: 62
+        width: 61
         height: 93
       alignment: 9
-      pivot: {x: 0.561996, y: 0.57478875}
+      pivot: {x: 0.66705245, y: 0.5772498}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -307,7 +307,7 @@ TextureImporter:
         width: 52
         height: 77
       alignment: 9
-      pivot: {x: 0.24656442, y: 0.4999996}
+      pivot: {x: 0.3830085, y: 0.49702752}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []

@@ -25,7 +25,7 @@ Transform:
   m_GameObject: {fileID: 574785312211719682}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: -0.3, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -165,7 +165,7 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: -0.009837687, y: -0.6296108}
+  m_Offset: {x: -0.009837687, y: -0.25572288}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -175,7 +175,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 0.6622726, y: 0.28077838}
+  m_Size: {x: 0.6622726, y: 1.0285542}
   m_EdgeRadius: 0
 --- !u!50 &7890569796851494212
 Rigidbody2D:
@@ -289,6 +289,9 @@ MonoBehaviour:
   bulletTransform: {fileID: 4820917247702515283}
   _bulletSpeed: 10
   _bulletCooldown: 0.4
+  _bulletCount: 5
+  _reloadTime: 1
+  _bullets: 0
 --- !u!114 &1013606661465304495
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -313,7 +316,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 504ef9a987ec84a439e894a2a9bea37e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerHealt
-  Healt: 5
+  Health: 5
+  MaxHealth: 5
 --- !u!1 &8495375097062022353
 GameObject:
   m_ObjectHideFlags: 0
@@ -327,7 +331,7 @@ GameObject:
   - component: {fileID: 4505732130868437305}
   m_Layer: 0
   m_Name: _attackHitbox
-  m_TagString: Untagged
+  m_TagString: PlayerAttack
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

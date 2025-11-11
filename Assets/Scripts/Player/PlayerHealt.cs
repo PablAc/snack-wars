@@ -7,14 +7,24 @@ public class PlayerHealt : MonoBehaviour
     private Animator _animator;
     private PlayerMovement _playerMovement;
 
-    [SerializeField] private float Health = 5;
-    [SerializeField] private float MaxHealth = 5;
+    [SerializeField] public float Health = 5f;
+    [SerializeField] public float MaxHealth = 5f;
 
     private void Start()
     {
         _animator = GetComponent<Animator>();
         _playerMovement = GetComponent<PlayerMovement>();
         Health = MaxHealth;
+    }
+
+    public void Heal(float cure) 
+    {
+        if (Health < 5f)
+        {
+            Health += cure;
+            if (Health > 5f) Health = 5f;
+        }
+
     }
 
     public void TakeDamage(float damage)
@@ -31,6 +41,8 @@ public class PlayerHealt : MonoBehaviour
             PlayerDead();
         }
     }
+
+
     private void PlayerHurt()
     {
         _animator.SetTrigger("IsHurt");
@@ -47,5 +59,12 @@ public class PlayerHealt : MonoBehaviour
     private void SceneReset()
     {
         SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+    }
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.CompareTag("EnemyAttack"))
+        {
+            TakeDamage(1);
+        }
     }
 }

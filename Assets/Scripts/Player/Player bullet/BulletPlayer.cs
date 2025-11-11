@@ -3,6 +3,8 @@ using UnityEngine;
 public class BulletPlayer : MonoBehaviour
 {
     [SerializeField] private int _damage = 1;
+    [SerializeField] private float _lifeTime = 5f;
+    private float TimeLeft;
 
     private void OnTriggerEnter2D(Collider2D other)
     {
@@ -12,18 +14,28 @@ public class BulletPlayer : MonoBehaviour
 
             Destroy(gameObject);
         }
-        
-    }
-
-    
-
-    private void OnCollisionEnter2D(Collision2D collision)
-    {
-        if (collision.collider.CompareTag ("Levelcolider"))
+        if (other.TryGetComponent<BossHealt>(out BossHealt f))
         {
+            f.TakeDamage(_damage);
             Destroy(gameObject);
         }
     }
 
+    private void Awake()
+    {
+        TimeLeft = _lifeTime;
+    }
+
+    private void Update()
+    {
+        if(TimeLeft > 0)
+        {
+            TimeLeft -= Time.deltaTime;
+        }
+        else
+        {
+            Destroy(gameObject);
+        }
+    }
 
 }
