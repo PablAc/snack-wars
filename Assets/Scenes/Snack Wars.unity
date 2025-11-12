@@ -105944,7 +105944,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::GameController
   PlayerObj: {fileID: 668050012}
   healthSlider: {fileID: 1785453405}
-  victoryScreen: {fileID: 0}
+  victoryScreen: {fileID: 2121464707}
 --- !u!4 &2108794760
 Transform:
   m_ObjectHideFlags: 0
