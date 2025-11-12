@@ -41,7 +41,7 @@ public class BulletPlayer : MonoBehaviour
     }
     IEnumerator DestroyDelay()
     {
-        yield return new WaitForEndOfFrame();
-        Destroy(this);
+        yield return new WaitForSeconds(0.1f);
+        Destroy(this.gameObject);
     }
 }

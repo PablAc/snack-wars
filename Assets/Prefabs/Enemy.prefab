@@ -108,7 +108,7 @@ MonoBehaviour:
   enemySpeed: 1
   shootTimerSet: 1
   bulletPrefab: {fileID: 1570067617347856821, guid: d4b7491e9d21415498790283d16a7b16, type: 3}
-  bulletSpeed: 10
+  bulletSpeed: 5
   shootClip: {fileID: 8300000, guid: a147b95cf99ea324b8145f8985343ccf, type: 3}
   canMove: 1
 --- !u!58 &6245711199669153813

@@ -14,6 +14,12 @@ public class GameController : MonoBehaviour
     float showHealth;
     bool isHealthMoving;
     [SerializeField] GameObject victoryScreen;
+    float playerMaxAmmo;
+    float playerCurrentAmmo;
+    float showCurrentAmmo;
+    [SerializeField] Slider ammoSlider;
+    RangeAttack pRanged;
+    
 
 
     private void Awake()
@@ -26,11 +32,21 @@ public class GameController : MonoBehaviour
         healthSlider.maxValue = playerMaxHealth;
         healthSlider.value = playerCurrentHealth;
         showHealth = playerCurrentHealth;
+        pRanged = PlayerObj.GetComponent<RangeAttack>();
+        playerMaxAmmo = pRanged.maxAmmo;
+        playerCurrentAmmo = pRanged.currentAmmo;
+        playerCurrentAmmo = playerMaxAmmo;
+        ammoSlider.maxValue = playerMaxAmmo;
+        ammoSlider.value = playerCurrentAmmo;
+        showCurrentAmmo = playerCurrentAmmo;
+
     }
     private void Update()
     {
         playerCurrentHealth = pHealth.Health;
         healthSlider.value = showHealth;
+        showCurrentAmmo = pRanged.currentAmmo;
+        ammoSlider.value = showCurrentAmmo;
         if (showHealth > playerCurrentHealth)
         {
             StartCoroutine (reduceHealthBar());
@@ -56,6 +72,24 @@ public class GameController : MonoBehaviour
             yield return 0.1f;
             showHealth += 0.1f;
             if (showHealth - playerCurrentHealth >= -0.2f) showHealth = playerCurrentHealth;
+        }
+    }
+    IEnumerator reduceAmmoBar()
+    {
+        while (showCurrentAmmo > playerCurrentAmmo)
+        {
+            yield return 0.1f;
+            showCurrentAmmo -= 0.01f;
+            if (showCurrentAmmo - playerCurrentAmmo <= 0.2f) showCurrentAmmo = playerCurrentAmmo;
+        }
+    }
+    IEnumerator aumentAmmoBar()
+    {
+        while (showCurrentAmmo < playerCurrentAmmo)
+        {
+            yield return 0.1f;
+            showCurrentAmmo += 0.1f;
+            if (showCurrentAmmo - playerCurrentAmmo >= -0.2f) showCurrentAmmo = playerCurrentAmmo;
         }
     }
     public void ActivateVictoryScreen()

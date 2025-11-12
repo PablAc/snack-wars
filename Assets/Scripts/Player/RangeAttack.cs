@@ -9,6 +9,8 @@ public class RangeAttack : MonoBehaviour
     [SerializeField] private float _bulletSpeed = 10f;
     [SerializeField] private float _bulletCooldown = 0.4f;
     [SerializeField] private AudioClip _attackClip;
+    [SerializeField] public int maxAmmo;
+   public int currentAmmo;
 
 
     private PlayerMovement _playerMovement;
@@ -20,7 +22,7 @@ public class RangeAttack : MonoBehaviour
     private void Start()
     {
         _playerMovement= GetComponent<PlayerMovement>();
-        _animator= GetComponent<Animator>();
+        _animator= GetComponent<Animator>();currentAmmo = maxAmmo;
 
     }
 
@@ -35,6 +37,7 @@ public class RangeAttack : MonoBehaviour
     private void TryRange() 
     {
         if (Time.time < _lastAttackTime + _bulletCooldown) return;
+        if (currentAmmo <= 0) return;
         _lastAttackTime = Time.time;
 
 
