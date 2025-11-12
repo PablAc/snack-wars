@@ -84,6 +84,7 @@ MonoBehaviour:
   mainBody: {fileID: 3900849673627095305}
   maxHP: 3
   currentHP: 0
+  HPcake: {fileID: 673682888235042103, guid: 0c0039e0882c9504483f0235c6db10c9, type: 3}
 --- !u!1 &3900849673627095305
 GameObject:
   m_ObjectHideFlags: 0
@@ -99,7 +100,7 @@ GameObject:
   - component: {fileID: 2495647625106552700}
   m_Layer: 0
   m_Name: Melee
-  m_TagString: Untagged
+  m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -259,6 +260,7 @@ MonoBehaviour:
   bulletPrefab: {fileID: 8291632144955555072}
   bulletSpeed: 0.2
   shootClip: {fileID: 8300000, guid: 6ffacf95551e9e346898db98a59c1ca6, type: 3}
+  canMove: 1
 --- !u!1 &4686903500580568570
 GameObject:
   m_ObjectHideFlags: 0

@@ -1,3 +1,4 @@
+using System.Collections;
 using UnityEngine;
 
 public class BulletPlayer : MonoBehaviour
@@ -19,6 +20,7 @@ public class BulletPlayer : MonoBehaviour
             f.TakeDamage(_damage);
             Destroy(gameObject);
         }
+        if (other.CompareTag("Enemy"))StartCoroutine(DestroyDelay());
     }
 
     private void Awake()
@@ -37,5 +39,9 @@ public class BulletPlayer : MonoBehaviour
             Destroy(gameObject);
         }
     }
-
+    IEnumerator DestroyDelay()
+    {
+        yield return new WaitForEndOfFrame();
+        Destroy(this);
+    }
 }

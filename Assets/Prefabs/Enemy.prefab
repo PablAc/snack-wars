@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 6245711199669153813}
   m_Layer: 0
   m_Name: Enemy
-  m_TagString: Untagged
+  m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -160,7 +160,7 @@ GameObject:
   - component: {fileID: 5185962466271570374}
   m_Layer: 0
   m_Name: Hitbox
-  m_TagString: Untagged
+  m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -231,3 +231,4 @@ MonoBehaviour:
   mainBody: {fileID: 3066517008572916383}
   maxHP: 3
   currentHP: 0
+  HPcake: {fileID: 673682888235042103, guid: 0c0039e0882c9504483f0235c6db10c9, type: 3}

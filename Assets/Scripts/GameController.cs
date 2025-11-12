@@ -13,6 +13,7 @@ public class GameController : MonoBehaviour
     float playerCurrentHealth;
     float showHealth;
     bool isHealthMoving;
+    [SerializeField] GameObject victoryScreen;
 
 
     private void Awake()
@@ -56,5 +57,10 @@ public class GameController : MonoBehaviour
             showHealth += 0.1f;
             if (showHealth - playerCurrentHealth >= -0.2f) showHealth = playerCurrentHealth;
         }
+    }
+    public void ActivateVictoryScreen()
+    {
+        victoryScreen.SetActive(true);
+        PlayerObj.SetActive(false);
     }
 }

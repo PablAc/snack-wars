@@ -16,6 +16,7 @@ public class BossHealt : MonoBehaviour
         if (Bosshealt <= 0)
         {
             _animator.SetTrigger("IsDead");
+            GameController.instance.ActivateVictoryScreen();
 
         }
     }
