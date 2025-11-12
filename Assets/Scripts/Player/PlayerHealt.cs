@@ -9,6 +9,7 @@ public class PlayerHealt : MonoBehaviour
 
     [SerializeField] public float Health = 5f;
     [SerializeField] public float MaxHealth = 5f;
+    [SerializeField] AudioClip damageClip;
 
     private void Start()
     {
@@ -33,6 +34,7 @@ public class PlayerHealt : MonoBehaviour
         if (Health >0)
 
         {
+            SFXmanager.instance.PlaySFX(damageClip, this.transform, UnityEngine.Random.Range(1f, 1.5f));
             PlayerHurt();
             
         }

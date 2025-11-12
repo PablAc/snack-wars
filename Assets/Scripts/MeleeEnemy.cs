@@ -33,6 +33,7 @@ public class MeleeEnemy : EnemyPatroller
     }
     IEnumerator Attack(float angle)
     {
+        SFXmanager.instance.PlaySFX(shootClip, this.transform, UnityEngine.Random.Range(0.5f, 0.9f));
         bulletPrefab.SetActive(true);
         bulletPrefab.transform.rotation = Quaternion.Euler(0, 0, angle);
         yield return new WaitForSeconds(bulletSpeed);

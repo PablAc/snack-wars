@@ -8,6 +8,8 @@ public class EnemyPatroller : MonoBehaviour
     [SerializeField]protected float shootTimerSet;
     [SerializeField]protected GameObject bulletPrefab;
     [SerializeField] protected float bulletSpeed;
+    [SerializeField] protected AudioClip shootClip;
+    [SerializeField] bool canMove = true;
     protected float shootTimer;
 
     private void Awake()
@@ -51,6 +53,7 @@ public class EnemyPatroller : MonoBehaviour
     {
         Vector2 direction = (PlayerObj.transform.position - this.transform.position).normalized;
         GameObject firingBullet = Instantiate(bulletPrefab, this.transform.position, Quaternion.identity);
+        SFXmanager.instance.PlaySFX(shootClip, this.transform, UnityEngine.Random.Range(0.5f, 0.9f));
         Rigidbody2D bulletRB = firingBullet.GetComponent<Rigidbody2D>();
         bulletRB.linearVelocity = direction * bulletSpeed;
     }

@@ -17,6 +17,7 @@ public class PlayerMovement : MonoBehaviour
     public GameObject _attackHitbox;
     [SerializeField] private float _attackDistance = 0.5f;
     [SerializeField] private float _attackCooldown = 0.4f;
+    [SerializeField] private AudioClip _attackClip;
     private float _lastAttackTime;
 
     
@@ -85,7 +86,7 @@ public class PlayerMovement : MonoBehaviour
         if (Time.time < _lastAttackTime + _attackCooldown) return;
 
         _lastAttackTime = Time.time;
-
+        SFXmanager.instance.PlaySFX(_attackClip, this.transform, UnityEngine.Random.Range(1.1f, 1.7f));
         _attackHitbox.transform.localPosition = _lastMoveDir * _attackDistance;
         _attackHitbox.SetActive(true);
 
