@@ -20,7 +20,7 @@ public class EnemyPatroller : MonoBehaviour
     }
     private void Update()
     {
-        if (!isPlayerInRange)
+        if (!isPlayerInRange && canMove)
         {
             shootTimer = shootTimerSet;
             transform.position = Vector2.MoveTowards(this.transform.position, PlayerObj.transform.position, enemySpeed * Time.deltaTime);
