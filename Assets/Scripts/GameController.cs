@@ -1,4 +1,5 @@
 using System.Collections;
+using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -19,6 +20,7 @@ public class GameController : MonoBehaviour
     float showCurrentAmmo;
     [SerializeField] Slider ammoSlider;
     RangeAttack pRanged;
+    bool isAmmoDepleted;
     
 
 
@@ -39,13 +41,14 @@ public class GameController : MonoBehaviour
         ammoSlider.maxValue = playerMaxAmmo;
         ammoSlider.value = playerCurrentAmmo;
         showCurrentAmmo = playerCurrentAmmo;
+        isAmmoDepleted = false;
 
     }
     private void Update()
     {
         playerCurrentHealth = pHealth.Health;
         healthSlider.value = showHealth;
-        showCurrentAmmo = pRanged.currentAmmo;
+        if(!isAmmoDepleted)playerCurrentAmmo = pRanged.currentAmmo;
         ammoSlider.value = showCurrentAmmo;
         if (showHealth > playerCurrentHealth)
         {
@@ -54,6 +57,19 @@ public class GameController : MonoBehaviour
         else if (showHealth < playerCurrentHealth)
         {
             StartCoroutine(aumentHealthBar());
+        }
+        if (showCurrentAmmo > playerCurrentAmmo && !isAmmoDepleted)
+        {
+            StartCoroutine(reduceAmmoBar());
+        }
+        else if (showCurrentAmmo < playerCurrentAmmo)
+        {
+            StartCoroutine(aumentAmmoBar());
+        }
+        if(showCurrentAmmo <= 0)
+        {
+            isAmmoDepleted = true;
+            StartCoroutine(maxAmmoCount());
         }
     }
     IEnumerator reduceHealthBar()
@@ -91,6 +107,17 @@ public class GameController : MonoBehaviour
             showCurrentAmmo += 0.1f;
             if (showCurrentAmmo - playerCurrentAmmo >= -0.2f) showCurrentAmmo = playerCurrentAmmo;
         }
+    }
+    IEnumerator maxAmmoCount()
+    {
+        while (showCurrentAmmo < playerMaxAmmo)
+        {
+            yield return new WaitForSeconds(0.1f);
+            showCurrentAmmo += 0.01f;
+        }
+        showCurrentAmmo = playerMaxAmmo;
+        pRanged.currentAmmo = playerMaxAmmo.ConvertTo<int>();
+        isAmmoDepleted = false;
     }
     public void ActivateVictoryScreen()
     {

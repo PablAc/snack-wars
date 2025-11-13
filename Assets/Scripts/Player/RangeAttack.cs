@@ -43,10 +43,9 @@ public class RangeAttack : MonoBehaviour
 
         Vector2 dir = _playerMovement != null ?
                       _playerMovement.GetLastMoveDir() : Vector2.down;
-
-
        GameObject bullet = Instantiate(playerBullet,bulletTransform.position, Quaternion.identity);
         SFXmanager.instance.PlaySFX(_attackClip, this.transform, UnityEngine.Random.Range(1f, 1.5f));
+        currentAmmo--;
         Rigidbody2D rb = bullet.GetComponent<Rigidbody2D>();
        rb.linearVelocity = dir * _bulletSpeed;
        bullet.transform.right = dir;
