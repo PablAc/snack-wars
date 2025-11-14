@@ -21,7 +21,7 @@
                     "id": "0c9b968b-2dd9-4710-8192-efae19e536da",
                     "expectedControlType": "",
                     "processors": "",
-                    "interactions": "Press(pressPoint=0.1,behavior=2)",
+                    "interactions": "",
                     "initialStateCheck": false
                 },
                 {

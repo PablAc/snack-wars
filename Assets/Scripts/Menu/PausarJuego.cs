@@ -7,19 +7,21 @@ public class PausarJuego : MonoBehaviour
     public GameObject menuPausa;
     public bool juegoPausado = false;
 
-    private void Update()
+
+    private void OnPause(InputValue imputValue)
     {
-        //if (Input.GetKeyDown(KeyCode.Escape))
-        //{
-        //    if (juegoPausado)
-        //    {
-        //        Reanudar();
-        //    }
-        //    else
-        //    {
-        //        Pausar();
-        //    }
-        //}
+        if (imputValue.Get<float>() > 0f)
+        {
+            if (juegoPausado == false)
+            {
+                Pausar();
+            }
+            else 
+            {
+                Reanudar();
+            }
+        }
+        
     }
 
     public void Reanudar()

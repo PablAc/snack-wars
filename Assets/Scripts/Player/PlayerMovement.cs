@@ -41,15 +41,11 @@ public class PlayerMovement : MonoBehaviour
         if (inputValue.Get<float>() > 0f)
         {
             TryAttack();
+            Debug.Log("Ataque");
         }
     }
-    private void OnPause(InputValue inputValue)
-    {
-        if (inputValue.Get<float>() > 0f)
-        {
-            Debug.Log("AAA");
-        }
-    }
+
+   
 
     private void Update()
     {
