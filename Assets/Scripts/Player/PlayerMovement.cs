@@ -41,7 +41,7 @@ public class PlayerMovement : MonoBehaviour
         if (inputValue.Get<float>() > 0f)
         {
             TryAttack();
-            Debug.Log("Ataque");
+           
         }
     }
 
@@ -81,6 +81,8 @@ public class PlayerMovement : MonoBehaviour
     {
         if (Time.time < _lastAttackTime + _attackCooldown) return;
 
+        
+        
         _lastAttackTime = Time.time;
         SFXmanager.instance.PlaySFX(_attackClip, this.transform, UnityEngine.Random.Range(1.1f, 1.7f));
         _attackHitbox.transform.localPosition = _lastMoveDir * _attackDistance;

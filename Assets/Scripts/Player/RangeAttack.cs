@@ -6,17 +6,20 @@ public class RangeAttack : MonoBehaviour
 {
     public GameObject playerBullet;
     public Transform bulletTransform;
+
     [SerializeField] private float _bulletSpeed = 10f;
     [SerializeField] private float _bulletCooldown = 0.4f;
     [SerializeField] private AudioClip _attackClip;
+    
     [SerializeField] public int maxAmmo;
-   public int currentAmmo;
+    public int currentAmmo;
 
 
     private PlayerMovement _playerMovement;
     private Animator _animator;
     private float _lastAttackTime;
 
+    [SerializeField] private bool _hasRangeWeapon = false;
 
 
     private void Start()
@@ -24,6 +27,7 @@ public class RangeAttack : MonoBehaviour
         _playerMovement= GetComponent<PlayerMovement>();
         _animator= GetComponent<Animator>();currentAmmo = maxAmmo;
 
+        _hasRangeWeapon = false;
     }
 
     private void OnRange(InputValue inputValue)
@@ -36,6 +40,8 @@ public class RangeAttack : MonoBehaviour
 
     private void TryRange() 
     {
+        if (!_hasRangeWeapon) return;
+
         if (Time.time < _lastAttackTime + _bulletCooldown) return;
         if (currentAmmo <= 0) return;
         _lastAttackTime = Time.time;
@@ -62,4 +68,10 @@ public class RangeAttack : MonoBehaviour
         }
 
     }
+
+    public void UnlockRangeWeapon()
+    {
+        _hasRangeWeapon = true;
+    }
+
 }
