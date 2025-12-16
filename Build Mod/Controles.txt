@@ -1,0 +1,8 @@
+Movimiento:
+WASD
+Ataque cuerpo a cuerpo:
+J
+Ataque a distancia:
+K
+Pausa:
+Esc
